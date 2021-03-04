@@ -1,0 +1,52 @@
+h1, h2, h3 {
+    color: rgb(102, 0, 68);
+    font-family: 'Gamja Flower', cursive;
+}
+header {
+    padding-right: 20px;
+}
+header a {
+    background-color: rgb(102, 0, 68);
+    color: white;
+    height: 20px;
+    width: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+h2 {
+    text-align: left;
+    font-size: 25px;
+}
+
+h2 a {
+    color: rgb(102, 0, 68);
+}
+
+a[href*="#"]{
+    color: rgb(1, 66, 66);
+    font-style: oblique;
+}
+
+img {
+    min-width: 150px;
+    max-width: 100%;
+    display: inline-block;
+    white-space: nowrap;
+    width: 150px;
+    height: 150px;
+}
+
+body {
+    background-color: white;
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+footer {
+    color: rgb(1, 66, 66);
+    font-style: oblique;
+    font-size: x-small;
+}
+
