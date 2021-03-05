@@ -1,24 +1,31 @@
-h1, h2, h3 {
-    color: rgb(102, 0, 68);
+h1 {
+    color: black;
     font-family: 'Gamja Flower', cursive;
 }
+
+h2, h3 {
+    color: black;
+    font-family: sans-serif;
+}
+
 header {
     padding-right: 20px;
 }
 
 body a {
-    color: rgb(1, 66, 66);
-    font-style: oblique;
+    color: darkslategrey;
+    font-style: normal;
 }
 
 header a {
-    background-color: rgb(102, 0, 68);
+    background-color: black;
     color: white;
     height: 20px;
     width: 30px;
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
+    font-style: normal;
 }
 
 h2 {
@@ -27,7 +34,7 @@ h2 {
 }
 
 h2 a {
-    color: rgb(102, 0, 68);
+    color: black;
 }
 
 a[href*="#"]{
