@@ -5,6 +5,12 @@ h1, h2, h3 {
 header {
     padding-right: 20px;
 }
+
+body a {
+    color: rgb(1, 66, 66);
+    font-style: oblique;
+}
+
 header a {
     background-color: rgb(102, 0, 68);
     color: white;
