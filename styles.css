@@ -1,16 +1,13 @@
 h1 {
     color: black;
     font-family: 'Gamja Flower', cursive;
+    padding-left: 20px;
 }
 
 h2, h3 {
     color: black;
     font-family: sans-serif;
-}
-
-body a {
-    color: darkslategrey;
-    font-style: normal;
+    padding-left: 20px;
 }
 
 h2 {
@@ -39,9 +36,20 @@ img {
 body {
     background-color: white;
     font-size: 25px;
+}
+
+body p {
     padding-left: 20px;
 }
 
+body a {
+    color: darkslategrey;
+    font-style: normal;
+}
+
+audio {
+    padding-left: 20px;
+}
 /* Add a background color to the top navigation */
 .topnav {
     background-color: #950952;
