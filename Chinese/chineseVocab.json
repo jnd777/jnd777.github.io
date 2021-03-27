@@ -629,5 +629,964 @@
         "pinyin":"xiānshēng",
         "english translation":null,
         "spanish translation":"señor, esposo, marido"
+    },
+    {
+        "word":"小姐",
+        "pinyin":"xiǎojiě",
+        "english translation":null,
+        "spanish translation":"señorita"
+    },
+    {
+        "word":"太太",
+        "pinyin":"tàitai",
+        "english translation":null,
+        "spanish translation":"señora, esposa"
+    },
+    {
+        "word":"贵",
+        "pinyin":"guì",
+        "english translation":null,
+        "spanish translation":"caro/a, noble, honorable"
+    },
+    {
+        "word":"陈",
+        "pinyin":"chén",
+        "english translation":null,
+        "spanish translation":"un apellido"
+    },
+    {
+        "word":"法国",
+        "pinyin":"fǎguó",
+        "english translation":null,
+        "spanish translation":"Francia"
+    },
+    {
+        "word":"法",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"ley"
+    },
+    {
+        "word":"太……了",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"expresión exclamativa",
+        "example":"太好了，太忙了，太红了，太贵了，太美了"
+    },
+    {
+        "word":"语言",
+        "pinyin":"yǔyán",
+        "english translation":null,
+        "spanish translation":"idiomas, lenguas",
+        "example":"你说什么语言?"
+    },
+    {
+        "word":"西班牙",
+        "pinyin":"xībānyá",
+        "english translation":null,
+        "spanish translation":"España"
+    },
+    {
+        "word":"西班牙语",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"idioma español"
+    },
+    {
+        "word":"西班牙文",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"idioma español"
+    },
+    {
+        "word":"果汁",
+        "pinyin":"guǒzhī",
+        "english translation":null,
+        "spanish translation":"jugo"
+    },
+    {
+        "word":"果",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"fruto"
+    },
+    {
+        "word":"汁",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"jugo"
+    },
+    {
+        "word":"三明治",
+        "pinyin":"sānmíngzhì",
+        "english translation":null,
+        "spanish translation":"sándwich"
+    },
+    {
+        "word":"做",
+        "pinyin":"zuò",
+        "english translation":null,
+        "spanish translation":"hacer",
+        "example":"你做什么工作?"
+    },
+    {
+        "word":"医生",
+        "pinyin":"yīshēng",
+        "english translation":null,
+        "spanish translation":"médico/a"
+    },
+    {
+        "word":"记者",
+        "pinyin":"jìzhě",
+        "english translation":null,
+        "spanish translation":"periodista"
+    },
+    {
+        "word":"汽水",
+        "pinyin":"qìshuǐ",
+        "english translation":null,
+        "spanish translation":"gaseosa"
+    },
+    {
+        "word":"汽",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"gas, vapor"
+    },
+    {
+        "word":"汉语",
+        "pinyin":"hànyǔ",
+        "english translation":null,
+        "spanish translation":"idioma chino"
+    },
+    {
+        "word":"语",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"lengua, idioma"
+    },
+    {
+        "word":"说",
+        "pinyin":"shuō",
+        "english translation":null,
+        "spanish translation":"hablar"
+    },
+    {
+        "word":"英语",
+        "pinyin":"yīngyǔ",
+        "english translation":null,
+        "spanish translation":"idioma inglés"
+    },
+    {
+        "word":"当然",
+        "pinyin":"dāngrán",
+        "english translation":null,
+        "spanish translation":"por supuesto, obvio"
+    },
+    {
+        "word":"美国",
+        "pinyin":"měiguó",
+        "english translation":null,
+        "spanish translation":"Estados Unidos"
+    },
+    {
+        "word":"美",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"hermosura, belleza"
+    },
+    {
+        "word":"吃",
+        "pinyin":"chī",
+        "english translation":null,
+        "spanish translation":"comer"
+    },
+    {
+        "word":"面包",
+        "pinyin":"miànbāo",
+        "english translation":null,
+        "spanish translation":"pan"
+    },
+    {
+        "word":"啤酒",
+        "pinyin":"píjiǔ",
+        "english translation":null,
+        "spanish translation":"cerveza"
+    },
+    {
+        "word":"太",
+        "pinyin":"tài",
+        "english translation":null,
+        "spanish translation":"demasiado"
+    },
+    {
+        "word":"阿根廷",
+        "pinyin":"āgēntíng",
+        "english translation":null,
+        "spanish translation":"Argentina"
+    },
+    {
+        "word":"哪",
+        "pinyin":"nǎ",
+        "english translation":null,
+        "spanish translation":"¿cuál?"
+    },
+    {
+        "word":"英国",
+        "pinyin":"yīngguó",
+        "english translation":null,
+        "spanish translation":"Inglaterra"
+    },
+    {
+        "word":"国",
+        "pinyin":"guó",
+        "english translation":null,
+        "spanish translation":"país"
+    },
+    {
+        "word":"红茶",
+        "pinyin":"hóngchá",
+        "english translation":null,
+        "spanish translation":"té negro"
+    },
+    {
+        "word":"加",
+        "pinyin":"jiā",
+        "english translation":null,
+        "spanish translation":"sumar, agregar"
+    },
+    {
+        "word":"牛奶",
+        "pinyin":"niúnǎi",
+        "english translation":null,
+        "spanish translation":"leche de vaca"
+    },
+    {
+        "word":"牛",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"Bovinae"
+    },
+    {
+        "word":"奶",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"leche"
+    },
+    {
+        "word":"喜欢",
+        "pinyin":"xǐhuān",
+        "english translation":null,
+        "spanish translation":"gustar"
+    },
+    {
+        "word":"红酒",
+        "pinyin":"hóngjiǔ",
+        "english translation":null,
+        "spanish translation":"vino tinto"
+    },
+    {
+        "word":"红",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"rojo/a"
+    },
+    {
+        "word":"中文",
+        "pinyin":"zhōngwén",
+        "english translation":null,
+        "spanish translation":"el idioma chino"
+    },
+    {
+        "word":"中",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"centro, medio"
+    },
+    {
+        "word":"文",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"escritura, letra"
+    },
+    {
+        "word":"水",
+        "pinyin":"shuǐ",
+        "english translation":null,
+        "spanish translation":"agua"
+    },
+    {
+        "word":"可乐",
+        "pinyin":"kělè",
+        "english translation":null,
+        "spanish translation":"cola"
+    },
+    {
+        "word":"乐",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"feliz, jubiloso/a"
+    },
+    {
+        "word":"有",
+        "pinyin":"yǒu",
+        "english translation":null,
+        "spanish translation":"tener, haber"
+    },
+    {
+        "word":"没有",
+        "pinyin":"méiyǒu",
+        "english translation":null,
+        "spanish translation":"no tener"
+    },
+    {
+        "word":"对不起",
+        "pinyin":"duìbùqǐ",
+        "english translation":null,
+        "spanish translation":"perdón, disculpe, lo siento"
+    },
+    {
+        "word":"酒",
+        "pinyin":"jiǔ",
+        "english translation":null,
+        "spanish translation":"bebida alcohólica"
+    },
+    {
+        "word":"茶",
+        "pinyin":"chá",
+        "english translation":null,
+        "spanish translation":"té"
+    },
+    {
+        "word":"要",
+        "pinyin":"yào",
+        "english translation":null,
+        "spanish translation":"querer"
+    },
+    {
+        "word":"喝",
+        "pinyin":"hē",
+        "english translation":null,
+        "spanish translation":"tomar, beber"
+    },
+    {
+        "word":"咖啡",
+        "pinyin":"kāfēi",
+        "english translation":null,
+        "spanish translation":"café"
+    },
+    {
+        "word":"都",
+        "pinyin":"dōu",
+        "english translation":null,
+        "spanish translation":"todo"
+    },
+    {
+        "word":"知道",
+        "pinyin":"zhīdào",
+        "english translation":null,
+        "spanish translation":"saber, enterarse"
+    },
+    {
+        "word":"哥哥",
+        "pinyin":"gēge",
+        "english translation":null,
+        "spanish translation":"hermano mayor"
+    },
+    {
+        "word":"弟弟",
+        "pinyin":"dìdi",
+        "english translation":null,
+        "spanish translation":"hermano menor"
+    },
+    {
+        "word":"姐姐",
+        "pinyin":"jiějie",
+        "english translation":null,
+        "spanish translation":"hermana mayor"
+    },
+    {
+        "word":"妹妹",
+        "pinyin":"mèimei",
+        "english translation":null,
+        "spanish translation":"hermana menor"
+    },
+    {
+        "word":"谁",
+        "pinyin":"shéi",
+        "english translation":null,
+        "spanish translation":"¿quién?"
+    },
+    {
+        "word":"妈妈",
+        "pinyin":"māma",
+        "english translation":null,
+        "spanish translation":"mamá"
+    },
+    {
+        "word":"贵",
+        "pinyin":"guì",
+        "english translation":null,
+        "spanish translation":"caro/a, noble, honorable",
+        "example":"您贵姓? 我姓________。"
+    },
+    {
+        "word":"这",
+        "pinyin":"zhè",
+        "english translation":null,
+        "spanish translation":"este/a/o"
+    },
+    {
+        "word":"爸爸",
+        "pinyin":"bàba",
+        "english translation":null,
+        "spanish translation":"papá"
+    },
+    {
+        "word":"高兴",
+        "pinyin":"gāoxìng",
+        "english translation":null,
+        "spanish translation":"contento/a"
+    },
+    {
+        "word":"认识",
+        "pinyin":"rènshi",
+        "english translation":null,
+        "spanish translation":"conocer"
+    },
+    {
+        "word":"很高兴认识你",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"mucho gusto"
+    },
+    {
+        "word":"认识你很高兴",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"mucho gusto"
+    },
+    {
+        "word":"学习",
+        "pinyin":"xuéxí",
+        "english translation":null,
+        "spanish translation":"estudiar, estudio"
+    },
+    {
+        "word":"身体",
+        "pinyin":"shēntǐ",
+        "english translation":null,
+        "spanish translation":"cuerpo, salud"
+    },
+    {
+        "word":"工作",
+        "pinyin":"gōngzuò",
+        "english translation":null,
+        "spanish translation":"trabajo, trabajar"
+    },
+    {
+        "word":"次",
+        "pinyin":"cì",
+        "english translation":null,
+        "spanish translation":"vez"
+    },
+    {
+        "word":"下次",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"la próxima vez"
+    },
+    {
+        "word":"再一次",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"otra vez"
+    },
+    {
+        "word":"忙",
+        "pinyin":"máng",
+        "english translation":null,
+        "spanish translation":"ocupado/a"
+    },
+    {
+        "word":"天气",
+        "pinyin":"tiānqì",
+        "english translation":null,
+        "spanish translation":"tiempo, clima"
+    },
+    {
+        "word":"气",
+        "pinyin":"qì",
+        "english translation":null,
+        "spanish translation":"aire, energía"
+    },
+    {
+        "word":"朋友",
+        "pinyin":"péngyǒu",
+        "english translation":null,
+        "spanish translation":"amigo/a"
+    },
+    {
+        "word":"年",
+        "pinyin":"nián",
+        "english translation":null,
+        "spanish translation":"año"
+    },
+    {
+        "word":"零",
+        "pinyin":"líng",
+        "english translation":null,
+        "spanish translation":"cero"
+    },
+    {
+        "word":"〇",
+        "pinyin":"líng",
+        "english translation":null,
+        "spanish translation":"cero"
+    },
+    {
+        "word":"怎么样",
+        "pinyin":"zěnme yàng",
+        "english translation":null,
+        "spanish translation":"¿qué tal?"
+    },
+    {
+        "word":"怎么",
+        "pinyin":"zěnme",
+        "english translation":null,
+        "spanish translation":"¿cómo?"
+    },
+    {
+        "word":"样",
+        "pinyin":"yàng",
+        "english translation":null,
+        "spanish translation":"forma, manera"
+    },
+    {
+        "word":"昨天",
+        "pinyin":"zuótiān",
+        "english translation":null,
+        "spanish translation":"ayer"
+    },
+    {
+        "word":"姓",
+        "pinyin":"xìng",
+        "english translation":null,
+        "spanish translation":"apellido, apellidarse"
+    },
+    {
+        "word":"王",
+        "pinyin":"wáng",
+        "english translation":null,
+        "spanish translation":"rey"
+    },
+    {
+        "word":"他",
+        "pinyin":"tā",
+        "english translation":null,
+        "spanish translation":"él"
+    },
+    {
+        "word":"她",
+        "pinyin":"tā",
+        "english translation":null,
+        "spanish translation":"ella"
+    },
+    {
+        "word":"几",
+        "pinyin":"jǐ",
+        "english translation":null,
+        "spanish translation":"cuánto"
+    },
+    {
+        "word":"几月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"¿qué mes?"
+    },
+    {
+        "word":"几号",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"¿qué día?"
+    },
+    {
+        "word":"几月几号",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"¿qué fecha?"
+    },
+    {
+        "word":"星期几",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"¿qué día de la semana?"
+    },
+    {
+        "word":"星期",
+        "pinyin":"xīngqī",
+        "english translation":null,
+        "spanish translation":"semana"
+    },
+    {
+        "word":"星",
+        "pinyin":"xīng",
+        "english translation":null,
+        "spanish translation":"estrella"
+    },
+    {
+        "word":"期",
+        "pinyin":"qī",
+        "english translation":null,
+        "spanish translation":"periódo"
+    },
+    {
+        "word":"星期一",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"lunes"
+    },
+    {
+        "word":"星期二",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"martes"
+    },
+    {
+        "word":"星期三",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"miércoles"
+    },
+    {
+        "word":"星期四",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"jueves"
+    },
+    {
+        "word":"星期五",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"viernes"
+    },
+    {
+        "word":"星期六",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"sábado"
+    },
+    {
+        "word":"星期日",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"domingo"
+    },
+    {
+        "word":"星期天",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"domingo"
+    },
+    {
+        "word":"今天",
+        "pinyin":"jīntiān",
+        "english translation":null,
+        "spanish translation":"hoy"
+    },
+    {
+        "word":"今",
+        "pinyin":"jīn",
+        "english translation":null,
+        "spanish translation":"este, presente"
+    },
+    {
+        "word":"们",
+        "pinyin":"men",
+        "english translation":null,
+        "spanish translation":"plural"
+    },
+    {
+        "word":"好不好",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"una forma afirmativa-negativa de formular preguntas, equivale a 好吗"
+    },
+    {
+        "word":"还可以",
+        "pinyin":"hái kěyǐ",
+        "english translation":null,
+        "spanish translation":"aceptable"
+    },
+    {
+        "word":"还",
+        "pinyin":"hái",
+        "english translation":null,
+        "spanish translation":"todavía"
+    },
+    {
+        "word":"可以",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"poder"
+    },
+    {
+        "word":"号",
+        "pinyin":"hào",
+        "english translation":null,
+        "spanish translation":"número, se usa en la fecha como el día",
+        "example":"四月二十二日 = 四月二十二号"
+    },
+    {
+        "word":"马马虎虎",
+        "pinyin":"mǎmǎhūhū",
+        "english translation":null,
+        "spanish translation":"más o menos"
+    },
+    {
+        "word":"虎",
+        "pinyin":"hǔ",
+        "english translation":null,
+        "spanish translation":"tigre"
+    },
+    {
+        "word":"马",
+        "pinyin":"mǎ",
+        "english translation":null,
+        "spanish translation":"caballo"
+    },
+    {
+        "word":"明天见",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"hasta mañana"
+    },
+    {
+        "word":"明天",
+        "pinyin":"míngtiān",
+        "english translation":null,
+        "spanish translation":"mañana"
+    },
+    {
+        "word":"明",
+        "pinyin":"míng",
+        "english translation":null,
+        "spanish translation":"brillante"
+    },
+    {
+        "word":"天",
+        "pinyin":"tiān",
+        "english translation":null,
+        "spanish translation":"cielo, día"
+    },
+    {
+        "word":"是",
+        "pinyin":"shì",
+        "english translation":null,
+        "spanish translation":"ser"
+    },
+    {
+        "word":"我是",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"yo soy"
+    },
+    {
+        "word":"不错",
+        "pinyin":"bùcuò",
+        "english translation":null,
+        "spanish translation":"no mal, bien"
+    },
+    {
+        "word":"不",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"no"
+    },
+    {
+        "word":"错",
+        "pinyin":"cuò",
+        "english translation":null,
+        "spanish translation":"mal, error, equivocación"
+    },
+    {
+        "word":"的",
+        "pinyin":"de",
+        "english translation":null,
+        "spanish translation":"posesivo"
+    },
+    {
+        "word":"我的",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"mi, mío/a"
+    },
+    {
+        "word":"早上好",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"buen día, buenos días"
+    },
+    {
+        "word":"下午好",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"buenas tardes"
+    },
+    {
+        "word":"晚上好",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"buenas noches"
+    },
+    {
+        "word":"早上",
+        "pinyin":"zǎoshàng",
+        "english translation":null,
+        "spanish translation":"la mañana"
+    },
+    {
+        "word":"下午",
+        "pinyin":"xiàwǔ",
+        "english translation":null,
+        "spanish translation":"la tarde"
+    },
+    {
+        "word":"晚上",
+        "pinyin":"wǎnshàng",
+        "english translation":null,
+        "spanish translation":"la noche"
+    },
+    {
+        "word":"生日",
+        "pinyin":"shēngrì",
+        "english translation":null,
+        "spanish translation":"cumpleaños"
+    },
+    {
+        "word":"生",
+        "pinyin":"shēng",
+        "english translation":null,
+        "spanish translation":"nacer, nacimiento"
+    },
+    {
+        "word":"早",
+        "pinyin":"zǎo",
+        "english translation":null,
+        "spanish translation":"temprano"
+    },
+    {
+        "word":"您",
+        "pinyin":"nín",
+        "english translation":null,
+        "spanish translation":"usted"
+    },
+    {
+        "word":"你呢",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"y vos?"
+    },
+    {
+        "word":"也",
+        "pinyin":"yě",
+        "english translation":null,
+        "spanish translation":"también"
+    },
+    {
+        "word":"日",
+        "pinyin":"rì",
+        "english translation":null,
+        "spanish translation":"sol, día"
+    },
+    {
+        "word":"谢谢",
+        "pinyin":"xièxie",
+        "english translation":null,
+        "spanish translation":"gracias"
+    },
+    {
+        "word":"月",
+        "pinyin":"yuè",
+        "english translation":null,
+        "spanish translation":"luna, mes"
+    },
+    {
+        "word":"一月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"enero"
+    },
+    {
+        "word":"二月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"febrero"
+    },
+    {
+        "word":"三月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"marzo"
+    },
+    {
+        "word":"四月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"abril"
+    },
+    {
+        "word":"五月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"mayo"
+    },
+    {
+        "word":"六月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"junio"
+    },
+    {
+        "word":"七月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"julio"
+    },
+    {
+        "word":"八月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"agosto"
+    },
+    {
+        "word":"九月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"septiembre"
+    },
+    {
+        "word":"十月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"octubre"
+    },
+    {
+        "word":"十一月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"noviembre"
+    },
+    {
+        "word":"十二月",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"diciembre"
+    },
+    {
+        "word":"很",
+        "pinyin":"hěn",
+        "english translation":null,
+        "spanish translation":"muy"
     }
 ]
