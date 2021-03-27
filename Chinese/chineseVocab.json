@@ -1,0 +1,633 @@
+[
+    {
+        "word":"单身",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"soltero/a"
+    },
+    {
+        "word":"已婚",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"casado/a"
+    },
+    {
+        "word":"居",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"分居",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"separarse de vivienda"
+    },
+    {
+        "word":"分开",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"separarse"
+    },
+    {
+        "word":"妻子",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"鳏夫",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"丈夫",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"寡妇",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"黑寡妇",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"孩子",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"市场",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"mercado"
+    },
+    {
+        "word":"营",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"gestión, gestionar"
+    },
+    {
+        "word":"销",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"venta"
+    },
+    {
+        "word":"父亲",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"母亲",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"父母",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"已经",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"ya, already"
+    },
+    {
+        "word":"退休",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"retirarse, jubilarse"
+    },
+    {
+        "word":"想",
+        "pinyin":"xiǎng",
+        "english translation":null,
+        "spanish translation":"desear, pensar"
+    },
+    {
+        "word":"我想...",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"me gustaría..., pienso...."
+    },
+    {
+        "word":"甜点",
+        "pinyin":"tiándiǎn",
+        "english translation":null,
+        "spanish translation":"postre, dulces"
+    },
+    {
+        "word":"甜",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"dulce"
+    },
+    {
+        "word":"点",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"punto"
+    },
+    {
+        "word":"布丁",
+        "pinyin":"bùdīng",
+        "english translation":null,
+        "spanish translation":"flan"
+    },
+    {
+        "word":"杯子蛋糕",
+        "pinyin":"bēizi dàngāo",
+        "english translation":"cupcake",
+        "spanish translation":null
+    },
+    {
+        "word":"蛋糕",
+        "pinyin":"dàngāo",
+        "english translation":null,
+        "spanish translation":"torta"
+    },
+    {
+        "word":"糕",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"pastel"
+    },
+    {
+        "word":"狗",
+        "pinyin":"gǒu",
+        "english translation":null,
+        "spanish translation":"perro/a"
+    },
+    {
+        "word":"猫",
+        "pinyin":"māo",
+        "english translation":null,
+        "spanish translation":"gato/a"
+    },
+    {
+        "word":"只",
+        "pinyin":"zhī",
+        "english translation":null,
+        "spanish translation":"clasificador de animal",
+        "example":"一只狗，两只猫"
+    },
+    {
+        "word":"白",
+        "pinyin":"bái",
+        "english translation":null,
+        "spanish translation":"blanco/a",
+        "example":"一只白狗，白巧克力"
+    },
+    {
+        "word":"黑",
+        "pinyin":"hēi",
+        "english translation":null,
+        "spanish translation":"negro/a",
+        "example":"两只黑狗，四只黑猫，黑咖啡，黑巧克力，黑啤酒"
+    },
+    {
+        "word":"快乐",
+        "pinyin":"kuàilè",
+        "english translation":null,
+        "spanish translation":"feliz"
+    },
+    {
+        "word":"快",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"rápido/a",
+        "example":"很快，太快了，快餐，快餐厅"
+    },
+    {
+        "word":"为什么",
+        "pinyin":"wèi shénme",
+        "english translation":null,
+        "spanish translation":"¿por qué?",
+        "example":"为什么你不喝咖啡加牛奶?"
+    },
+    {
+        "word":"为",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"por"
+    },
+    {
+        "word":"因为",
+        "pinyin":"yīnwèi",
+        "english translation":null,
+        "spanish translation":"porque",
+        "example":"因为我不喜欢牛奶"
+    },
+    {
+        "word":"踢足球",
+        "pinyin":"tīzúqiú",
+        "english translation":null,
+        "spanish translation":"jugar fútbol"
+    },
+    {
+        "word":"踢",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"patear"
+    },
+    {
+        "word":"足",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"pie"
+    },
+    {
+        "word":"足球",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"fútbol"
+    },
+    {
+        "word":"可是",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"pero"
+    },
+    {
+        "word":"高尔夫球",
+        "pinyin":"gāo´ěr fū qiú",
+        "english translation":null,
+        "spanish translation":"golf"
+    },
+    {
+        "word":"行",
+        "pinyin":"xíng",
+        "english translation":null,
+        "spanish translation":"poder, vale, dale"
+    },
+    {
+        "word":"好喝",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"rico/a (para las bebidas)",
+        "example":"姐姐说巴西咖啡很好喝，但是美国咖啡不好喝"
+    },
+    {
+        "word":"什么时候",
+        "pinyin":"shénme shíhòu",
+        "english translation":null,
+        "spanish translation":"¿cuándo?"
+    },
+    {
+        "word":"时候",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"momento",
+        "example":"我们什么时候去星巴克喝咖啡?"
+    },
+    {
+        "word":"现在",
+        "pinyin":"xiànzài",
+        "english translation":null,
+        "spanish translation":"ahora",
+        "example":"现在去"
+    },
+    {
+        "word":"打球",
+        "pinyin":"dǎqiú",
+        "english translation":null,
+        "spanish translation":"jugar las pelotas con las manos"
+    },
+    {
+        "word":"打",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"pegar"
+    },
+    {
+        "word":"球",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"pelota"
+    },
+    {
+        "word":"网球",
+        "pinyin":"wǎngqiú",
+        "english translation":null,
+        "spanish translation":"tenis"
+    },
+    {
+        "word":"网",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"red"
+    },
+    {
+        "word":"上网",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"navegar en el internet"
+    },
+    {
+        "word":"网上",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"en el internet"
+    },
+    {
+        "word":"打网球",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"jugar tenis"
+    },
+    {
+        "word":"对",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"correcto, exacto"
+    },
+    {
+        "word":"抱歉",
+        "pinyin":"bàoqiàn",
+        "english translation":null,
+        "spanish translation":""
+    },
+    {
+        "word":"抱",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"abrazar"
+    },
+    {
+        "word":"歉",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"mala cosecha, culpa"
+    },
+    {
+        "word":"时间",
+        "pinyin":"shíjiān",
+        "english translation":null,
+        "spanish translation":"tiempo",
+        "example":"你星期日有没有时间?"
+    },
+    {
+        "word":"星巴克",
+        "pinyin":"xīngbākè",
+        "english translation":null,
+        "spanish translation":"Starbucks"
+    },
+    {
+        "word":"游泳",
+        "pinyin":"yóuyǒng",
+        "english translation":null,
+        "spanish translation":"nadar"
+    },
+    {
+        "word":"巧克力",
+        "pinyin":"qiǎokèlì",
+        "english translation":null,
+        "spanish translation":"chocolate"
+    },
+    {
+        "word":"有意思",
+        "pinyin":"yǒuyìsi",
+        "english translation":null,
+        "spanish translation":"interesante"
+    },
+    {
+        "word":"意思",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"significar,significado",
+        "example":"这什么意思? 这是什么意思?"
+    },
+    {
+        "word":"糖",
+        "pinyin":"táng",
+        "english translation":null,
+        "spanish translation":"azúcar"
+    },
+    {
+        "word":"遍",
+        "pinyin":"biàn",
+        "english translation":null,
+        "spanish translation":"vez, casi sinónimo de 次",
+        "example":"再一遍"
+    },
+    {
+        "word":"德国",
+        "pinyin":"déguó",
+        "english translation":null,
+        "spanish translation":"Alemania"
+    },
+    {
+        "word":"德",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"virtud"
+    },
+    {
+        "word":"给",
+        "pinyin":"gěi",
+        "english translation":null,
+        "spanish translation":"dar",
+        "example":"请给我_______"
+    },
+    {
+        "word":"进",
+        "pinyin":"jìn",
+        "english translation":null,
+        "spanish translation":"ingresar, entrar",
+        "example":"进口、请进、进来、进去"
+    },
+    {
+        "word":"来",
+        "pinyin":"lái",
+        "english translation":null,
+        "spanish translation":"venir",
+        "example":"请进来。可以进来吗?"
+    },
+    {
+        "word":"坐",
+        "pinyin":"zuò",
+        "english translation":null,
+        "spanish translation":"sentarse",
+        "example":"请坐"
+    },
+    {
+        "word":"巴西",
+        "pinyin":"bāxī",
+        "english translation":null,
+        "spanish translation":"Brasil",
+        "example":"巴西人、巴西咖啡"
+    },
+    {
+        "word":"但是",
+        "pinyin":"dànshì",
+        "english translation":null,
+        "spanish translation":"pero = 可是"
+    },
+    {
+        "word":"那么",
+        "pinyin":"nàme",
+        "english translation":null,
+        "spanish translation":"entonces"
+    },
+    {
+        "word":"杯子",
+        "pinyin":"bēizi",
+        "english translation":null,
+        "spanish translation":"vaso, taza, copa",
+        "example":"一个杯子。一杯咖啡、一杯茶、三杯水、四杯果汁、五杯啤酒…"
+    },
+    {
+        "word":"马上",
+        "pinyin":"mǎshàng",
+        "english translation":null,
+        "spanish translation":"enseguida",
+        "example":"马上来"
+    },
+    {
+        "word":"去",
+        "pinyin":"qù",
+        "english translation":null,
+        "spanish translation":"ir",
+        "example":"去餐厅、去咖啡厅、去医院、去法院、去西班牙餐厅、去意大利咖啡厅、去英国医院、去医学院、去法学院、去语言学院、去医学中心"
+    },
+    {
+        "word":"意大利",
+        "pinyin":"yìdàlì",
+        "english translation":null,
+        "spanish translation":"Italia"
+    },
+    {
+        "word":"医院",
+        "pinyin":"yīyuàn",
+        "english translation":null,
+        "spanish translation":"hospital"
+    },
+    {
+        "word":"餐厅",
+        "pinyin":"cāntīng",
+        "english translation":null,
+        "spanish translation":"restaurante",
+        "example":"中国餐厅、法国餐厅、西班牙餐厅"
+    },
+    {
+        "word":"餐",
+        "pinyin":"",
+        "english translation":"meal",
+        "spanish translation":"comida",
+        "example":"早餐、中餐/午餐、晚餐、西餐…"
+    },
+    {
+        "word":"吃早餐",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"desayunar"
+    },
+    {
+        "word":"吃中餐",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"almorzar"
+    },
+    {
+        "word":"吃午餐",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"almorzar"
+    },
+    {
+        "word":"中午",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"mediodía"
+    },
+    {
+        "word":"吃晚餐",
+        "pinyin":"",
+        "english translation":null,
+        "spanish translation":"cenar"
+    },
+    {
+        "word":"哪儿",
+        "pinyin":"nǎr",
+        "english translation":null,
+        "spanish translation":"¿dónde? = 哪里"
+    },
+    {
+        "word":"那儿",
+        "pinyin":"nàr",
+        "english translation":null,
+        "spanish translation":"ahí, allí, allá = 那里"
+    },
+    {
+        "word":"请",
+        "pinyin":"qǐng",
+        "english translation":null,
+        "spanish translation":"por favor",
+        "example":"请问、请喝、请吃、请工作、请你们学习…"
+    },
+    {
+        "word":"问",
+        "pinyin":"wèn",
+        "english translation":null,
+        "spanish translation":"preguntar"
+    },
+    {
+        "word":"厅",
+        "pinyin":"tīng",
+        "english translation":null,
+        "spanish translation":"sala, salón",
+        "example":"咖啡厅"
+    },
+    {
+        "word":"在",
+        "pinyin":"zài",
+        "english translation":null,
+        "spanish translation":"en, estar",
+        "example":"我在咖啡厅"
+    },
+    {
+        "word":"哪里",
+        "pinyin":"nǎlǐ",
+        "english translation":null,
+        "spanish translation":"¿dónde?"
+    },
+    {
+        "word":"没关系",
+        "pinyin":"méi guānxì",
+        "english translation":null,
+        "spanish translation":"no importa, no pasa nada, todo bien"
+    },
+    {
+        "word":"那里",
+        "pinyin":"nàlǐ",
+        "english translation":null,
+        "spanish translation":"ahí, allí, allá"
+    },
+    {
+        "word":"不客气",
+        "pinyin":"bù kèqì",
+        "english translation":null,
+        "spanish translation":"de nada"
+    },
+    {
+        "word":"先生",
+        "pinyin":"xiānshēng",
+        "english translation":null,
+        "spanish translation":"señor, esposo, marido"
+    }
+]
