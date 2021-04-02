@@ -1,12 +1,122 @@
-h1, h2, h3 {
-    color: black;
+/* Reset defaults */
+body, ul, li, h1, h2, h3, a {
+    margin: 0;
+    padding: 0;
     font-family: sans-serif;
+}
+
+/* Add a background color to the top navigation */
+.topnav {
+    background-color: #950952;
+    overflow: hidden;
+    height: 51px;
+    
+}
+ 
+.topnav ul {
+    height: 51px;
+    list-style-type: none;
+    background-color: #950952;
+    white-space: nowrap;
+    min-width: 400px;
+    max-width: 500px;
+}
+.topnav li {
+    display: inline;
+    text-align: center;
+    height: 51px;
+}
+/* Style the links inside the navigation bar */
+.topnav li a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: serif;
+}
+  
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #e5ece9;
+    color: #0b3c49;
+    height: 51px;
+}
+  
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #98ce00;
+    color: white;
+}
+
+/* Page title */
+h1 {
+    color: black;
+    background: white;
+    padding-top: 20px;
     padding-left: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgrey;
 }
 
 h2 {
     text-align: left;
     font-size: 25px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+article {
+    border-bottom: 1px solid lightgrey;
+}
+
+article p {
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+article p a {
+    font-size: 20px;
+    padding-left: 0px;
+    color: gray;
+}
+
+.articleBullet{
+    font-size: 25px;
+    padding-left: 30px;
+    list-style-type: none;
+}
+
+.articleBullet li {
+    font-size: 25px;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+audio {
+    padding-left: 20px;
+}
+
+button {
+    background-color: #e7e7e7;
+    border: none;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+}
+
+a[href*="#"]{
+    color: lightgray;
+    font-style: italic;
+    font-size: x-small;
 }
 
 img {
@@ -16,62 +126,9 @@ img {
     white-space: nowrap;
     width: 150px;
     height: 150px;
-}
-
-body {
-    background-color: white;
-    font-size: 25px;
-}
-
-body p {
     padding-left: 20px;
 }
 
-body a {
-    color: darkslategrey;
-    font-style: normal;
-}
-
-h2 a {
-    color: black;
-}
-
-a[href*="#"]{
-    color: rgb(1, 66, 66);
-    font-style: oblique;
-}
-
-audio {
-    padding-left: 20px;
-}
-/* Add a background color to the top navigation */
-.topnav {
-    background-color: #950952;
-    overflow: hidden;
-    min-height: 20px;
-}
-  
-/* Style the links inside the navigation bar */
-.topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 20px;
-}
-  
-/* Change the color of links on hover */
-.topnav a:hover {
-    background-color: #e5ece9;
-    color: #0b3c49;
-}
-  
-/* Add a color to the active/current link */
-.topnav a.active {
-    background-color: #98ce00;
-    color: white;
-}
 
 footer {
     color: rgb(1, 66, 66);
@@ -103,7 +160,6 @@ footer {
     border: 1px solid #dddddd;
     width: max-content;
 }
-
 
 .vocabTable tr:nth-child(even){
     background-color: #f2f2f2;
