@@ -1087,49 +1087,49 @@ const chineseVocabulary = [
     {
         "word":"要",
         "pinyin":"yào",
-        "englishTranslation":null,
+        "englishTranslation":"to want",
         "spanishTranslation":"querer",
         "example":""
     },
     {
         "word":"喝",
         "pinyin":"hē",
-        "englishTranslation":null,
+        "englishTranslation":"to drink",
         "spanishTranslation":"tomar, beber",
         "example":""
     },
     {
         "word":"咖啡",
         "pinyin":"kāfēi",
-        "englishTranslation":null,
+        "englishTranslation":"coffee",
         "spanishTranslation":"café",
         "example":""
     },
     {
         "word":"都",
         "pinyin":"dōu",
-        "englishTranslation":null,
-        "spanishTranslation":"todo",
+        "englishTranslation":"all, both",
+        "spanishTranslation":"todo, ambos",
         "example":""
     },
     {
         "word":"知道",
         "pinyin":"zhīdào",
-        "englishTranslation":null,
+        "englishTranslation":"to know",
         "spanishTranslation":"saber, enterarse",
         "example":""
     },
     {
         "word":"哥哥",
         "pinyin":"gēge",
-        "englishTranslation":null,
+        "englishTranslation":"older brother",
         "spanishTranslation":"hermano mayor",
         "example":""
     },
     {
         "word":"弟弟",
         "pinyin":"dìdi",
-        "englishTranslation":null,
+        "englishTranslation":"younger brother",
         "spanishTranslation":"hermano menor",
         "example":""
     },
@@ -1157,8 +1157,8 @@ const chineseVocabulary = [
     {
         "word":"妈妈",
         "pinyin":"māma",
-        "englishTranslation":null,
-        "spanishTranslation":"mamá",
+        "englishTranslation":"mother",
+        "spanishTranslation":"madre",
         "example":""
     },
     {
@@ -1178,8 +1178,8 @@ const chineseVocabulary = [
     {
         "word":"爸爸",
         "pinyin":"bàba",
-        "englishTranslation":null,
-        "spanishTranslation":"papá",
+        "englishTranslation":"father",
+        "spanishTranslation":"padre",
         "example":""
     },
     {
@@ -1255,7 +1255,7 @@ const chineseVocabulary = [
     {
         "word":"忙",
         "pinyin":"máng",
-        "englishTranslation":null,
+        "englishTranslation":"busy",
         "spanishTranslation":"ocupado/a",
         "example":""
     },
@@ -1271,6 +1271,34 @@ const chineseVocabulary = [
         "pinyin":"qì",
         "englishTranslation":null,
         "spanishTranslation":"aire, energía",
+        "example":""
+    },
+    {
+        "word":"男朋友",
+        "pinyin":"nánpéngyǒu",
+        "englishTranslation":"boyfriend",
+        "spanishTranslation":"novio",
+        "example":""
+    },
+    {
+        "word":"女朋友",
+        "pinyin":"nǚpéngyǒu",
+        "englishTranslation":"girlfriend",
+        "spanishTranslation":"novia",
+        "example":""
+    },
+    {
+        "word":"女",
+        "pinyin":"nǚ",
+        "englishTranslation":"woman, female",
+        "spanishTranslation":"mujer",
+        "example":""
+    },
+    {
+        "word":"男",
+        "pinyin":"nán",
+        "englishTranslation":"man, male",
+        "spanishTranslation":"varón, hombre",
         "example":""
     },
     {
@@ -1344,6 +1372,34 @@ const chineseVocabulary = [
         "example":""
     },
     {
+        "word":"我们",
+        "pinyin":"wǒmen",
+        "englishTranslation":"we",
+        "spanishTranslation":"nosotros",
+        "example":""
+    },
+    {
+        "word":"你们",
+        "pinyin":"nǐmen",
+        "englishTranslation":"you (plural)",
+        "spanishTranslation":"ustedes",
+        "example":""
+    },
+    {
+        "word":"他们",
+        "pinyin":"tāmen",
+        "englishTranslation":"they",
+        "spanishTranslation":"ellos",
+        "example":""
+    },
+    {
+        "word":"她们",
+        "pinyin":"tāmen",
+        "englishTranslation":"they",
+        "spanishTranslation":"ellas",
+        "example":""
+    },
+    {
         "word":"他",
         "pinyin":"tā",
         "englishTranslation":null,
@@ -1366,28 +1422,28 @@ const chineseVocabulary = [
     },
     {
         "word":"几月",
-        "pinyin":"",
+        "pinyin":"jǐyuè",
         "englishTranslation":null,
         "spanishTranslation":"¿qué mes?",
         "example":""
     },
     {
         "word":"几号",
-        "pinyin":"",
+        "pinyin":"jǐhào",
         "englishTranslation":null,
         "spanishTranslation":"¿qué día?",
         "example":""
     },
     {
         "word":"几月几号",
-        "pinyin":"",
+        "pinyin":"jǐyuèjǐhào",
         "englishTranslation":null,
         "spanishTranslation":"¿qué fecha?",
         "example":""
     },
     {
         "word":"星期几",
-        "pinyin":"",
+        "pinyin":"xīngqījǐ",
         "englishTranslation":null,
         "spanishTranslation":"¿qué día de la semana?",
         "example":""
@@ -1415,57 +1471,57 @@ const chineseVocabulary = [
     },
     {
         "word":"星期一",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"xīngqīyī",
+        "englishTranslation":"Monday",
         "spanishTranslation":"lunes",
         "example":""
     },
     {
         "word":"星期二",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"xīngqīèr",
+        "englishTranslation":"Tuesday",
         "spanishTranslation":"martes",
         "example":""
     },
     {
         "word":"星期三",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"xīngqīsān",
+        "englishTranslation":"Wednesday",
         "spanishTranslation":"miércoles",
         "example":""
     },
     {
         "word":"星期四",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"xīngqīsì",
+        "englishTranslation":"Thursday",
         "spanishTranslation":"jueves",
         "example":""
     },
     {
         "word":"星期五",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"xīngqīwǔ",
+        "englishTranslation":"Friday",
         "spanishTranslation":"viernes",
         "example":""
     },
     {
         "word":"星期六",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"xīngqīliù",
+        "englishTranslation":"Saturday",
         "spanishTranslation":"sábado",
         "example":""
     },
     {
         "word":"星期日",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"xīngqīrì",
+        "englishTranslation":"Sunday",
         "spanishTranslation":"domingo",
         "example":""
     },
     {
         "word":"星期天",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"xīngqītiān",
+        "englishTranslation":"Sunday",
         "spanishTranslation":"domingo",
         "example":""
     },
@@ -1486,20 +1542,20 @@ const chineseVocabulary = [
     {
         "word":"们",
         "pinyin":"men",
-        "englishTranslation":null,
+        "englishTranslation":"plural",
         "spanishTranslation":"plural",
         "example":""
     },
     {
         "word":"好不好",
-        "pinyin":"",
+        "pinyin":"hǎobùhǎo",
         "englishTranslation":null,
         "spanishTranslation":"una forma afirmativa-negativa de formular preguntas, equivale a 好吗",
         "example":""
     },
     {
         "word":"还可以",
-        "pinyin":"hái kěyǐ",
+        "pinyin":"háikěyǐ",
         "englishTranslation":null,
         "spanishTranslation":"aceptable",
         "example":""
@@ -1513,7 +1569,7 @@ const chineseVocabulary = [
     },
     {
         "word":"可以",
-        "pinyin":"",
+        "pinyin":"kěyǐ",
         "englishTranslation":null,
         "spanishTranslation":"poder",
         "example":""
@@ -1548,7 +1604,7 @@ const chineseVocabulary = [
     },
     {
         "word":"明天见",
-        "pinyin":"",
+        "pinyin":"míngtiānjiàn",
         "englishTranslation":null,
         "spanishTranslation":"hasta mañana",
         "example":""
@@ -1577,13 +1633,13 @@ const chineseVocabulary = [
     {
         "word":"是",
         "pinyin":"shì",
-        "englishTranslation":null,
+        "englishTranslation":"to be",
         "spanishTranslation":"ser",
         "example":""
     },
     {
         "word":"我是",
-        "pinyin":"",
+        "pinyin":"wǒshì",
         "englishTranslation":null,
         "spanishTranslation":"yo soy",
         "example":""
@@ -1597,8 +1653,8 @@ const chineseVocabulary = [
     },
     {
         "word":"不",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"bù",
+        "englishTranslation":"no",
         "spanishTranslation":"no",
         "example":""
     },
@@ -1618,28 +1674,28 @@ const chineseVocabulary = [
     },
     {
         "word":"我的",
-        "pinyin":"",
+        "pinyin":"wǒde",
         "englishTranslation":null,
         "spanishTranslation":"mi, mío/a",
         "example":""
     },
     {
         "word":"早上好",
-        "pinyin":"",
+        "pinyin":"zǎoshànghǎo",
         "englishTranslation":null,
         "spanishTranslation":"buen día, buenos días",
         "example":""
     },
     {
         "word":"下午好",
-        "pinyin":"",
+        "pinyin":"xiàwǔhǎo",
         "englishTranslation":null,
         "spanishTranslation":"buenas tardes",
         "example":""
     },
     {
         "word":"晚上好",
-        "pinyin":"",
+        "pinyin":"wǎnshànghǎo",
         "englishTranslation":null,
         "spanishTranslation":"buenas noches",
         "example":""
@@ -1689,134 +1745,176 @@ const chineseVocabulary = [
     {
         "word":"您",
         "pinyin":"nín",
-        "englishTranslation":null,
+        "englishTranslation":"you (formal)",
         "spanishTranslation":"usted",
         "example":""
     },
     {
         "word":"你呢",
-        "pinyin":"",
+        "pinyin":"nǐne",
+        "englishTranslation":"and you?",
+        "spanishTranslation":"¿y tú/vos?",
+        "example":""
+    },
+    {
+        "word":"呢",
+        "pinyin":"ne",
         "englishTranslation":null,
-        "spanishTranslation":"y vos?",
+        "spanishTranslation":"partícula modal para preguntas elípticas",
         "example":""
     },
     {
         "word":"也",
         "pinyin":"yě",
-        "englishTranslation":null,
-        "spanishTranslation":"también",
+        "englishTranslation":"also",
+        "spanishTranslation":"también, además",
         "example":""
     },
     {
         "word":"日",
         "pinyin":"rì",
-        "englishTranslation":null,
+        "englishTranslation":"day",
         "spanishTranslation":"sol, día",
         "example":""
     },
     {
         "word":"谢谢",
         "pinyin":"xièxie",
-        "englishTranslation":null,
+        "englishTranslation":"thank you",
         "spanishTranslation":"gracias",
         "example":""
     },
     {
         "word":"月",
         "pinyin":"yuè",
-        "englishTranslation":null,
-        "spanishTranslation":"luna, mes",
+        "englishTranslation":"month",
+        "spanishTranslation":"mes",
         "example":""
     },
     {
         "word":"一月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"yīyuè",
+        "englishTranslation":"January",
         "spanishTranslation":"enero",
         "example":""
     },
     {
         "word":"二月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"èryuè",
+        "englishTranslation":"February",
         "spanishTranslation":"febrero",
         "example":""
     },
     {
         "word":"三月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"sānyuè",
+        "englishTranslation":"March",
         "spanishTranslation":"marzo",
         "example":""
     },
     {
         "word":"四月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"sìyuè",
+        "englishTranslation":"April",
         "spanishTranslation":"abril",
         "example":""
     },
     {
         "word":"五月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"wǔyuè",
+        "englishTranslation":"May",
         "spanishTranslation":"mayo",
         "example":""
     },
     {
         "word":"六月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"liùyuè",
+        "englishTranslation":"June",
         "spanishTranslation":"junio",
         "example":""
     },
     {
         "word":"七月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"qīyuè",
+        "englishTranslation":"July",
         "spanishTranslation":"julio",
         "example":""
     },
     {
         "word":"八月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"bāyuè",
+        "englishTranslation":"August",
         "spanishTranslation":"agosto",
         "example":""
     },
     {
         "word":"九月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"jiǔyuè",
+        "englishTranslation":"September",
         "spanishTranslation":"septiembre",
         "example":""
     },
     {
         "word":"十月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"shíyuè",
+        "englishTranslation":"October",
         "spanishTranslation":"octubre",
         "example":""
     },
     {
         "word":"十一月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"shíyīyuè",
+        "englishTranslation":"November",
         "spanishTranslation":"noviembre",
         "example":""
     },
     {
         "word":"十二月",
-        "pinyin":"",
-        "englishTranslation":null,
+        "pinyin":"shíèryuè",
+        "englishTranslation":"December",
         "spanishTranslation":"diciembre",
+        "example":""
+    },
+    {
+        "word":"你好吗",
+        "pinyin":"nǐhǎoma",
+        "englishTranslation":"How are you?",
+        "spanishTranslation":"¿Cómo estás?",
+        "example":""
+    },
+    {
+        "word":"吗",
+        "pinyin":"ma",
+        "englishTranslation":"",
+        "spanishTranslation":"partícula interrogativa para preguntas que esperan la respuesta sí/no",
         "example":""
     },
     {
         "word":"很",
         "pinyin":"hěn",
-        "englishTranslation":null,
+        "englishTranslation":"very",
         "spanishTranslation":"muy",
+        "example":""
+    },
+    {
+        "word":"好",
+        "pinyin":"hǎo",
+        "englishTranslation":"good, well, fine, OK",
+        "spanishTranslation":"bien, bueno",
+        "example":""
+    },
+    {
+        "word":"你",
+        "pinyin":"nǐ",
+        "englishTranslation":"you",
+        "spanishTranslation":"tú, vos",
+        "example":""
+    },
+    {
+        "word":"我",
+        "pinyin":"wǒ",
+        "englishTranslation":"I, me",
+        "spanishTranslation":"yo, mi",
         "example":""
     }
 ]
