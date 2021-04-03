@@ -239,7 +239,7 @@ const chineseVocabulary = [
     },
     {
         "word":"快",
-        "pinyin":"",
+        "pinyin":"kuài",
         "englishTranslation":null,
         "spanishTranslation":"rápido/a",
         "example":"很快，太快了，快餐，快餐厅"
@@ -414,14 +414,14 @@ const chineseVocabulary = [
     },
     {
         "word":"抱",
-        "pinyin":"",
+        "pinyin":"bào",
         "englishTranslation":null,
         "spanishTranslation":"abrazar",
         "example":""
     },
     {
         "word":"歉",
-        "pinyin":"",
+        "pinyin":"qiàn",
         "englishTranslation":null,
         "spanishTranslation":"mala cosecha, culpa",
         "example":""
@@ -463,7 +463,7 @@ const chineseVocabulary = [
     },
     {
         "word":"意思",
-        "pinyin":"",
+        "pinyin":"yìsi",
         "englishTranslation":null,
         "spanishTranslation":"significar, significado",
         "example":"这什么意思? 这是什么意思?"
@@ -491,7 +491,7 @@ const chineseVocabulary = [
     },
     {
         "word":"德",
-        "pinyin":"",
+        "pinyin":"dé",
         "englishTranslation":null,
         "spanishTranslation":"virtud",
         "example":""
@@ -743,14 +743,14 @@ const chineseVocabulary = [
     },
     {
         "word":"法",
-        "pinyin":"",
+        "pinyin":"fǎ",
         "englishTranslation":null,
         "spanishTranslation":"ley",
         "example":""
     },
     {
-        "word":"太……了",
-        "pinyin":"",
+        "word":"太...了",
+        "pinyin":"tài...le",
         "englishTranslation":null,
         "spanishTranslation":"expresión exclamativa",
         "example":"太好了，太忙了，太红了，太贵了，太美了"
@@ -771,14 +771,14 @@ const chineseVocabulary = [
     },
     {
         "word":"西班牙语",
-        "pinyin":"",
+        "pinyin":"xībānyáyǔ",
         "englishTranslation":null,
         "spanishTranslation":"idioma español",
         "example":""
     },
     {
         "word":"西班牙文",
-        "pinyin":"",
+        "pinyin":"xībānyáwén",
         "englishTranslation":null,
         "spanishTranslation":"idioma español",
         "example":""
@@ -792,14 +792,14 @@ const chineseVocabulary = [
     },
     {
         "word":"果",
-        "pinyin":"",
+        "pinyin":"guǒ",
         "englishTranslation":null,
         "spanishTranslation":"fruto",
         "example":""
     },
     {
         "word":"汁",
-        "pinyin":"",
+        "pinyin":"zhī",
         "englishTranslation":null,
         "spanishTranslation":"jugo",
         "example":""
@@ -841,7 +841,7 @@ const chineseVocabulary = [
     },
     {
         "word":"汽",
-        "pinyin":"",
+        "pinyin":"qì",
         "englishTranslation":null,
         "spanishTranslation":"gas, vapor",
         "example":""
@@ -855,7 +855,7 @@ const chineseVocabulary = [
     },
     {
         "word":"语",
-        "pinyin":"",
+        "pinyin":"yǔ",
         "englishTranslation":null,
         "spanishTranslation":"lengua, idioma",
         "example":""
@@ -890,7 +890,7 @@ const chineseVocabulary = [
     },
     {
         "word":"美",
-        "pinyin":"",
+        "pinyin":"měi",
         "englishTranslation":null,
         "spanishTranslation":"hermosura, belleza",
         "example":""
@@ -974,14 +974,14 @@ const chineseVocabulary = [
     },
     {
         "word":"牛",
-        "pinyin":"",
+        "pinyin":"niú",
         "englishTranslation":null,
         "spanishTranslation":"Bovinae",
         "example":""
     },
     {
         "word":"奶",
-        "pinyin":"",
+        "pinyin":"nǎi",
         "englishTranslation":null,
         "spanishTranslation":"leche",
         "example":""
@@ -1002,7 +1002,7 @@ const chineseVocabulary = [
     },
     {
         "word":"红",
-        "pinyin":"",
+        "pinyin":"hóng",
         "englishTranslation":null,
         "spanishTranslation":"rojo/a",
         "example":""
@@ -1016,14 +1016,14 @@ const chineseVocabulary = [
     },
     {
         "word":"中",
-        "pinyin":"",
+        "pinyin":"zhōng",
         "englishTranslation":null,
         "spanishTranslation":"centro, medio",
         "example":""
     },
     {
         "word":"文",
-        "pinyin":"",
+        "pinyin":"wén",
         "englishTranslation":null,
         "spanishTranslation":"escritura, letra",
         "example":""
@@ -1044,7 +1044,7 @@ const chineseVocabulary = [
     },
     {
         "word":"乐",
-        "pinyin":"",
+        "pinyin":"lè",
         "englishTranslation":null,
         "spanishTranslation":"feliz, jubiloso/a",
         "example":""
@@ -1198,14 +1198,14 @@ const chineseVocabulary = [
     },
     {
         "word":"很高兴认识你",
-        "pinyin":"",
+        "pinyin":"hěngāoxìngrènshinǐ",
         "englishTranslation":null,
         "spanishTranslation":"mucho gusto",
         "example":""
     },
     {
         "word":"认识你很高兴",
-        "pinyin":"",
+        "pinyin":"rènshinǐhěngāoxìng",
         "englishTranslation":null,
         "spanishTranslation":"mucho gusto",
         "example":""
@@ -1240,7 +1240,7 @@ const chineseVocabulary = [
     },
     {
         "word":"下次",
-        "pinyin":"",
+        "pinyin":"xiàcì",
         "englishTranslation":null,
         "spanishTranslation":"la próxima vez",
         "example":""
