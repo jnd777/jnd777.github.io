@@ -141,7 +141,7 @@ const chineseVocabulary = [
     },
     {
         "word":"我想...",
-        "pinyin":"",
+        "pinyin":"wǒxiǎng",
         "englishTranslation":null,
         "spanishTranslation":"me gustaría..., pienso....",
         "example":""
@@ -155,14 +155,14 @@ const chineseVocabulary = [
     },
     {
         "word":"甜",
-        "pinyin":"",
+        "pinyin":"tián",
         "englishTranslation":null,
         "spanishTranslation":"dulce",
         "example":""
     },
     {
         "word":"点",
-        "pinyin":"",
+        "pinyin":"diǎn",
         "englishTranslation":null,
         "spanishTranslation":"punto",
         "example":""
@@ -190,7 +190,7 @@ const chineseVocabulary = [
     },
     {
         "word":"糕",
-        "pinyin":"",
+        "pinyin":"gāo",
         "englishTranslation":null,
         "spanishTranslation":"pastel",
         "example":""
@@ -253,7 +253,7 @@ const chineseVocabulary = [
     },
     {
         "word":"为",
-        "pinyin":"",
+        "pinyin":"wèi",
         "englishTranslation":null,
         "spanishTranslation":"por",
         "example":""
@@ -274,28 +274,28 @@ const chineseVocabulary = [
     },
     {
         "word":"踢",
-        "pinyin":"",
+        "pinyin":"tī",
         "englishTranslation":null,
         "spanishTranslation":"patear",
         "example":""
     },
     {
         "word":"足",
-        "pinyin":"",
+        "pinyin":"zú",
         "englishTranslation":null,
         "spanishTranslation":"pie",
         "example":""
     },
     {
         "word":"足球",
-        "pinyin":"",
+        "pinyin":"zúqiú",
         "englishTranslation":null,
         "spanishTranslation":"fútbol",
         "example":""
     },
     {
         "word":"可是",
-        "pinyin":"",
+        "pinyin":"kěshì",
         "englishTranslation":null,
         "spanishTranslation":"pero",
         "example":""
@@ -316,7 +316,7 @@ const chineseVocabulary = [
     },
     {
         "word":"好喝",
-        "pinyin":"",
+        "pinyin":"hǎohē",
         "englishTranslation":null,
         "spanishTranslation":"rico/a (para las bebidas)",
         "example":"姐姐说巴西咖啡很好喝，但是美国咖啡不好喝"
@@ -330,7 +330,7 @@ const chineseVocabulary = [
     },
     {
         "word":"时候",
-        "pinyin":"",
+        "pinyin":"shíhòu",
         "englishTranslation":null,
         "spanishTranslation":"momento",
         "example":"我们什么时候去星巴克喝咖啡?"
@@ -351,14 +351,14 @@ const chineseVocabulary = [
     },
     {
         "word":"打",
-        "pinyin":"",
+        "pinyin":"dǎ",
         "englishTranslation":null,
         "spanishTranslation":"pegar",
         "example":""
     },
     {
         "word":"球",
-        "pinyin":"",
+        "pinyin":"qiú",
         "englishTranslation":null,
         "spanishTranslation":"pelota",
         "example":""
@@ -372,28 +372,28 @@ const chineseVocabulary = [
     },
     {
         "word":"网",
-        "pinyin":"",
+        "pinyin":"wǎng",
         "englishTranslation":null,
         "spanishTranslation":"red",
         "example":""
     },
     {
         "word":"上网",
-        "pinyin":"",
+        "pinyin":"shàngwǎng",
         "englishTranslation":null,
         "spanishTranslation":"navegar en el internet",
         "example":""
     },
     {
         "word":"网上",
-        "pinyin":"",
+        "pinyin":"wǎngshàng",
         "englishTranslation":null,
         "spanishTranslation":"en el internet",
         "example":""
     },
     {
         "word":"打网球",
-        "pinyin":"",
+        "pinyin":"dǎwǎngqiú",
         "englishTranslation":null,
         "spanishTranslation":"jugar tenis",
         "example":""
