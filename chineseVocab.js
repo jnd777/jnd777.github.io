@@ -465,7 +465,7 @@ const chineseVocabulary = [
         "word":"意思",
         "pinyin":"",
         "englishTranslation":null,
-        "spanishTranslation":"significar,significado",
+        "spanishTranslation":"significar, significado",
         "example":"这什么意思? 这是什么意思?"
     },
     {

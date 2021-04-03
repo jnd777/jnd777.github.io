@@ -17,9 +17,10 @@
     </nav>
 <section>
     <h1>Lessons</h1>
-<!--
-    <label for="article">Jump to lesson:</label>
-    <select name="article" id="article">
+</section>
+<section>
+    <select name="Lesson" id="selectedLesson" onchange="jumpToLesson('selectedLesson')">
+        <option>Jump to lesson</option>
         <option value="1">1</option>
         <option value="2">2</option>
         <option value="3">3</option>
@@ -88,7 +89,8 @@
         <option value="66">66</option>
         <option value="67">67</option>
         <option value="68">68</option>
-    </select>-->
+    </select>
+    <button type="button" class="goButton"><a id="jumpButton" href="">Go</a></button>
 </section>
 <main>
     <article>
@@ -1910,6 +1912,7 @@
     
 
     <a href="#">Go back to top</a>
+    <script src="jumpToLesson.js"></script>
     <!--<script src="chineseVocab.js"></script>
     <script src="translation.js"></script>-->
 </body>

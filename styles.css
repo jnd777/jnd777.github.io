@@ -18,8 +18,7 @@ body, ul, li, h1, h2, h3, a {
     list-style-type: none;
     background-color: #950952;
     white-space: nowrap;
-    min-width: 400px;
-    max-width: 500px;
+    /*min-width: 400px;*/
 }
 .topnav li {
     display: inline;
@@ -54,10 +53,10 @@ body, ul, li, h1, h2, h3, a {
 h1 {
     color: black;
     background: white;
-    padding-top: 20px;
+    /* padding-top: 20px;
     padding-left: 20px;
     padding-bottom: 20px;
-    border-bottom: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;*/
 }
 
 h2 {
@@ -66,6 +65,15 @@ h2 {
     padding-top: 20px;
     padding-left: 20px;
     padding-bottom: 20px;
+}
+
+section {
+    text-align: left;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgrey;
 }
 
 article {
@@ -99,21 +107,19 @@ audio {
     padding-left: 20px;
 }
 
-button {
+button a {
     background-color: #e7e7e7;
     border: none;
     color: white;
     text-align: center;
     vertical-align: middle;
     text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
     width: 2em;
     height: 2em;
     border-radius: 50%;
 }
 
-a[href*="#"]{
+a[href="#"]{
     color: lightgray;
     font-style: italic;
     font-size: x-small;
@@ -143,9 +149,9 @@ footer {
     border-collapse: collapse;
     margin: 25px 0px;
     font-size: 0.9em;
-    min-width: 400px;
+    /*min-width: 400px;*/
     border: 1px solid #dddddd;
-
+    margin: 0;
 }
 
 .vocabTable thead tr {
@@ -158,7 +164,7 @@ footer {
 .vocabTable th, .vocabTable td {
     padding: 12px 15px;
     border: 1px solid #dddddd;
-    width: max-content;
+    /*width: max-content;*/
 }
 
 .vocabTable tr:nth-child(even){
@@ -168,3 +174,17 @@ footer {
 .vocabTable tr:hover {
     background-color: #ddd;
 }
+
+/*button {
+    background-color: #e7e7e7;
+    border: none;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+}*/
