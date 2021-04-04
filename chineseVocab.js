@@ -311,7 +311,7 @@ const chineseVocabulary = [
         "word":"行",
         "pinyin":"xíng",
         "englishTranslation":null,
-        "spanishTranslation":"poder, vale, dale",
+        "spanishTranslation":"poder, vale, dale, estar bien",
         "example":""
     },
     {
@@ -337,7 +337,7 @@ const chineseVocabulary = [
     },
     {
         "word":"时候",
-        "pinyin":"shíhòu",
+        "pinyin":"shíhou",
         "englishTranslation":null,
         "spanishTranslation":"momento",
         "example":"我们什么时候去星巴克喝咖啡?"
@@ -353,14 +353,14 @@ const chineseVocabulary = [
         "word":"打球",
         "pinyin":"dǎqiú",
         "englishTranslation":null,
-        "spanishTranslation":"jugar las pelotas con las manos",
+        "spanishTranslation":"jugar a la pelota",
         "example":""
     },
     {
         "word":"打",
         "pinyin":"dǎ",
         "englishTranslation":null,
-        "spanishTranslation":"pegar",
+        "spanishTranslation":"jugar",
         "example":""
     },
     {
@@ -413,10 +413,17 @@ const chineseVocabulary = [
         "example":""
     },
     {
+        "word":"恐怕",
+        "pinyin":"kǒngpà",
+        "englishTranslation":null,
+        "spanishTranslation":"quizás, temer que",
+        "example":""
+    },
+    {
         "word":"抱歉",
         "pinyin":"bàoqiàn",
         "englishTranslation":null,
-        "spanishTranslation":"",
+        "spanishTranslation":"lo siento",
         "example":""
     },
     {
@@ -486,7 +493,7 @@ const chineseVocabulary = [
         "word":"遍",
         "pinyin":"biàn",
         "englishTranslation":null,
-        "spanishTranslation":"vez, casi sinónimo de 次",
+        "spanishTranslation":"número de veces (de una acción), casi sinónimo de 次",
         "example":"再一遍"
     },
     {
@@ -697,7 +704,7 @@ const chineseVocabulary = [
         "pinyin":"wèn",
         "englishTranslation":null,
         "spanishTranslation":"preguntar",
-        "example":""
+        "example":"问老师，问朋友"
     },
     {
         "word":"厅",
@@ -1102,8 +1109,8 @@ const chineseVocabulary = [
         "word":"中文",
         "pinyin":"zhōngwén",
         "englishTranslation":null,
-        "spanishTranslation":"el idioma chino",
-        "example":""
+        "spanishTranslation":"idioma chino",
+        "example":"中文名字，中文名片"
     },
     {
         "word":"中",
@@ -1254,6 +1261,20 @@ const chineseVocabulary = [
         "example":""
     },
     {
+        "word":"名字",
+        "pinyin":"míngzi",
+        "englishTranslation":null,
+        "spanishTranslation":"nombre",
+        "example":"你的名字，叫什么名字"
+    },
+    {
+        "word":"介绍",
+        "pinyin":"jièshào",
+        "englishTranslation":null,
+        "spanishTranslation":"presentar",
+        "example":"介绍林娜，介绍语言学院"
+    },
+    {
         "word":"谁",
         "pinyin":"shéi",
         "englishTranslation":null,
@@ -1266,6 +1287,27 @@ const chineseVocabulary = [
         "englishTranslation":"mother",
         "spanishTranslation":"madre",
         "example":""
+    },
+    {
+        "word":"教授",
+        "pinyin":"jiàoshòu",
+        "englishTranslation":"",
+        "spanishTranslation":"profesor universitario",
+        "example":""
+    },
+    {
+        "word":"教",
+        "pinyin":"jiào",
+        "englishTranslation":"",
+        "spanishTranslation":"enseñar, impartir clase",
+        "example":""
+    },
+    {
+        "word":"名片",
+        "pinyin":"míngpiàn",
+        "englishTranslation":"",
+        "spanishTranslation":"tarjeta de visita",
+        "example":"我的名片，老师的名片"
     },
     {
         "word":"叫",
@@ -1310,6 +1352,13 @@ const chineseVocabulary = [
         "example":""
     },
     {
+        "word":"看",
+        "pinyin":"kàn",
+        "englishTranslation":null,
+        "spanishTranslation":"mirar, ver",
+        "example":"看老师，看这儿"
+    },
+    {
         "word":"高兴",
         "pinyin":"gāoxìng",
         "englishTranslation":null,
@@ -1338,6 +1387,125 @@ const chineseVocabulary = [
         "example":""
     },
     {
+        "word":"高",
+        "pinyin":"gāo",
+        "englishTranslation":null,
+        "spanishTranslation":"alto",
+        "example":""
+    },
+    {
+        "word":"文化",
+        "pinyin":"wénhuà",
+        "englishTranslation":null,
+        "spanishTranslation":"cultura",
+        "example":""
+    },
+    {
+        "word":"历史",
+        "pinyin":"lìshǐ",
+        "englishTranslation":null,
+        "spanishTranslation":"historia",
+        "example":""
+    },
+    {
+        "word":"哲学",
+        "pinyin":"zhéxué",
+        "englishTranslation":null,
+        "spanishTranslation":"filosofía",
+        "example":""
+    },
+    {
+        "word":"音乐",
+        "pinyin":"yīnyuè",
+        "englishTranslation":null,
+        "spanishTranslation":"música",
+        "example":""
+    },
+    {
+        "word":"经济",
+        "pinyin":"jīngjì",
+        "englishTranslation":null,
+        "spanishTranslation":"economía",
+        "example":""
+    },
+    {
+        "word":"数学",
+        "pinyin":"shùxué",
+        "englishTranslation":null,
+        "spanishTranslation":"matemáticas",
+        "example":""
+    },
+    {
+        "word":"物理",
+        "pinyin":"wùlǐ",
+        "englishTranslation":null,
+        "spanishTranslation":"física",
+        "example":""
+    },
+    {
+        "word":"化学",
+        "pinyin":"huàxué",
+        "englishTranslation":null,
+        "spanishTranslation":"química",
+        "example":""
+    },
+    {
+        "word":"教育",
+        "pinyin":"jiàoyù",
+        "englishTranslation":null,
+        "spanishTranslation":"educación",
+        "example":""
+    },
+    {
+        "word":"选修",
+        "pinyin":"xuǎnxiū",
+        "englishTranslation":null,
+        "spanishTranslation":"escoger una asignatura optativa",
+        "example":""
+    },
+    {
+        "word":"专业",
+        "pinyin":"zhuānyè",
+        "englishTranslation":null,
+        "spanishTranslation":"carrera, especialidad",
+        "example":"中文专业，汉语专业，语言专业"
+    },
+    {
+        "word":"美术",
+        "pinyin":"měishù",
+        "englishTranslation":null,
+        "spanishTranslation":"bellas artes",
+        "example":"学习美术，美术专业"
+    },
+    {
+        "word":"文学",
+        "pinyin":"wénxué",
+        "englishTranslation":null,
+        "spanishTranslation":"literatura",
+        "example":"中国文学，文学专业"
+    },
+    {
+        "word":"系",
+        "pinyin":"xì",
+        "englishTranslation":null,
+        "spanishTranslation":"facultad, departamento",
+        "example":"汉语系，语言系，中文系"
+    },
+    {
+        "word":"开",
+        "pinyin":"kāi",
+        "englishTranslation":null,
+        "spanishTranslation":"empezar",
+        "example":""
+    },
+    {
+        "word":"开学",
+        "pinyin":"kāixué",
+        "englishTranslation":null,
+        "spanishTranslation":"empezar el colegio",
+        "example":""
+    },
+    {
         "word":"学生",
         "pinyin":"xuésheng",
         "englishTranslation":null,
@@ -1350,6 +1518,13 @@ const chineseVocabulary = [
         "englishTranslation":null,
         "spanishTranslation":"estudiar, aprender",
         "example":""
+    },
+    {
+        "word":"学",
+        "pinyin":"xué",
+        "englishTranslation":null,
+        "spanishTranslation":"estudiar, aprender",
+        "example":"学中文，学汉语"
     },
     {
         "word":"身体",
@@ -1371,6 +1546,13 @@ const chineseVocabulary = [
         "englishTranslation":null,
         "spanishTranslation":"dormitorio",
         "example":""
+    },
+    {
+        "word":"一下",
+        "pinyin":"yíxià",
+        "englishTranslation":null,
+        "spanishTranslation":"se utiliza después de un verbo para indicar una acción rápida",
+        "example":"认识一下，问一下，看一下"
     },
     {
         "word":"次",
@@ -1485,8 +1667,15 @@ const chineseVocabulary = [
         "example":""
     },
     {
+        "word":"京剧",
+        "pinyin":"jīngjù",
+        "englishTranslation":null,
+        "spanishTranslation":"Ópera de Pekín",
+        "example":""
+    },
+    {
         "word":"怎么样",
-        "pinyin":"zěnme yàng",
+        "pinyin":"zěnmeyàng",
         "englishTranslation":null,
         "spanishTranslation":"¿qué tal?",
         "example":""
