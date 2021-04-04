@@ -16,8 +16,8 @@ const chineseVocabulary = [
     {
         "word":"居",
         "pinyin":"jū",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "englishTranslation":"residence, house",
+        "spanishTranslation":"vivienda, residencia, casa",
         "example":""
     },
     {
@@ -37,36 +37,36 @@ const chineseVocabulary = [
     {
         "word":"妻子",
         "pinyin":"qīzi",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "englishTranslation":"wife",
+        "spanishTranslation":"esposa",
         "example":""
     },
     {
         "word":"鳏夫",
-        "pinyin":"",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "pinyin":"guānfū",
+        "englishTranslation":"single man, bachelor",
+        "spanishTranslation":"hombre soltero",
         "example":""
     },
     {
         "word":"丈夫",
         "pinyin":"zhàngfu",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "englishTranslation":"husband",
+        "spanishTranslation":"esposo",
         "example":""
     },
     {
         "word":"寡妇",
-        "pinyin":"",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "pinyin":"guǎfù",
+        "englishTranslation":"widow",
+        "spanishTranslation":"viuda",
         "example":""
     },
     {
         "word":"黑寡妇",
-        "pinyin":"",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "pinyin":"hēiguǎfù",
+        "englishTranslation":"black widow",
+        "spanishTranslation":"viuda negra",
         "example":""
     },
     {
@@ -93,22 +93,22 @@ const chineseVocabulary = [
     {
         "word":"父亲",
         "pinyin":"fùqīn",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "englishTranslation":"father",
+        "spanishTranslation":"padre",
         "example":""
     },
     {
         "word":"母亲",
         "pinyin":"mǔqīn",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "englishTranslation":"mother",
+        "spanishTranslation":"madre",
         "example":""
     },
     {
         "word":"父母",
         "pinyin":"fùmǔ",
-        "englishTranslation":null,
-        "spanishTranslation":"",
+        "englishTranslation":"parents",
+        "spanishTranslation":"padres",
         "example":""
     },
     {
