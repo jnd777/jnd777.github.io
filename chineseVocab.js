@@ -1,42 +1,42 @@
 const chineseVocabulary = [
     {
         "word":"单身",
-        "pinyin":"",
+        "pinyin":"dānshēn",
         "englishTranslation":null,
         "spanishTranslation":"soltero/a",
         "example":""
     },
     {
         "word":"已婚",
-        "pinyin":"",
+        "pinyin":"yǐhūn",
         "englishTranslation":null,
         "spanishTranslation":"casado/a",
         "example":""
     },
     {
         "word":"居",
-        "pinyin":"",
+        "pinyin":"jū",
         "englishTranslation":null,
         "spanishTranslation":"",
         "example":""
     },
     {
         "word":"分居",
-        "pinyin":"",
+        "pinyin":"fēnjū",
         "englishTranslation":null,
         "spanishTranslation":"separarse de vivienda",
         "example":""
     },
     {
         "word":"分开",
-        "pinyin":"",
+        "pinyin":"fēnkāi",
         "englishTranslation":null,
         "spanishTranslation":"separarse",
         "example":""
     },
     {
         "word":"妻子",
-        "pinyin":"",
+        "pinyin":"qīzi",
         "englishTranslation":null,
         "spanishTranslation":"",
         "example":""
@@ -50,7 +50,7 @@ const chineseVocabulary = [
     },
     {
         "word":"丈夫",
-        "pinyin":"",
+        "pinyin":"zhàngfu",
         "englishTranslation":null,
         "spanishTranslation":"",
         "example":""
@@ -70,66 +70,178 @@ const chineseVocabulary = [
         "example":""
     },
     {
-        "word":"孩子",
-        "pinyin":"",
-        "englishTranslation":null,
-        "spanishTranslation":"",
-        "example":""
-    },
-    {
         "word":"市场",
-        "pinyin":"",
+        "pinyin":"shìchǎng",
         "englishTranslation":null,
         "spanishTranslation":"mercado",
         "example":""
     },
     {
         "word":"营",
-        "pinyin":"",
+        "pinyin":"yíng",
         "englishTranslation":null,
         "spanishTranslation":"gestión, gestionar",
         "example":""
     },
     {
         "word":"销",
-        "pinyin":"",
+        "pinyin":"xiāo",
         "englishTranslation":null,
         "spanishTranslation":"venta",
         "example":""
     },
     {
         "word":"父亲",
-        "pinyin":"",
+        "pinyin":"fùqīn",
         "englishTranslation":null,
         "spanishTranslation":"",
         "example":""
     },
     {
         "word":"母亲",
-        "pinyin":"",
+        "pinyin":"mǔqīn",
         "englishTranslation":null,
         "spanishTranslation":"",
         "example":""
     },
     {
         "word":"父母",
-        "pinyin":"",
+        "pinyin":"fùmǔ",
         "englishTranslation":null,
         "spanishTranslation":"",
         "example":""
     },
     {
         "word":"已经",
-        "pinyin":"",
-        "englishTranslation":null,
-        "spanishTranslation":"ya, already",
+        "pinyin":"yǐjīng",
+        "englishTranslation":"already",
+        "spanishTranslation":"ya",
         "example":""
     },
     {
         "word":"退休",
-        "pinyin":"",
+        "pinyin":"tuìxiū",
         "englishTranslation":null,
         "spanishTranslation":"retirarse, jubilarse",
+        "example":""
+    },
+    {
+        "word":"车",
+        "pinyin":"chē",
+        "englishTranslation":null,
+        "spanishTranslation":"coche, vehículo",
+        "example":""
+    },
+    {
+        "word":"词典",
+        "pinyin":"cídiǎn",
+        "englishTranslation":null,
+        "spanishTranslation":"diccionario",
+        "example":""
+    },
+    {
+        "word":"电脑",
+        "pinyin":"diànnǎo",
+        "englishTranslation":null,
+        "spanishTranslation":"computadora",
+        "example":""
+    },
+    {
+        "word":"孩子",
+        "pinyin":"háizi",
+        "englishTranslation":null,
+        "spanishTranslation":"niño",
+        "example":""
+    },
+    {
+        "word":"爷爷",
+        "pinyin":"yéye",
+        "englishTranslation":null,
+        "spanishTranslation":"abuelo paterno",
+        "example":""
+    },
+    {
+        "word":"外公",
+        "pinyin":"wàigōng",
+        "englishTranslation":null,
+        "spanishTranslation":"abuelo materno",
+        "example":""
+    },
+    {
+        "word":"系主任",
+        "pinyin":"xìzhǔrèn",
+        "englishTranslation":null,
+        "spanishTranslation":"jefe de departamento",
+        "example":""
+    },
+    {
+        "word":"助教",
+        "pinyin":"zhùjiào",
+        "englishTranslation":null,
+        "spanishTranslation":"ayudante de profesor",
+        "example":""
+    },
+    {
+        "word":"律师",
+        "pinyin":"lǜshī",
+        "englishTranslation":null,
+        "spanishTranslation":"abogado",
+        "example":""
+    },
+    {
+        "word":"工程师",
+        "pinyin":"gōngchéngshī",
+        "englishTranslation":null,
+        "spanishTranslation":"ingeniero",
+        "example":""
+    },
+    {
+        "word":"大",
+        "pinyin":"dà",
+        "englishTranslation":null,
+        "spanishTranslation":"grande, voluminoso",
+        "example":""
+    },
+    {
+        "word":"多少",
+        "pinyin":"duōshao",
+        "englishTranslation":null,
+        "spanishTranslation":"cuántos",
+        "example":""
+    },
+    {
+        "word":"多",
+        "pinyin":"duō",
+        "englishTranslation":null,
+        "spanishTranslation":"mucho",
+        "example":""
+    },
+    {
+        "word":"少",
+        "pinyin":"shǎo",
+        "englishTranslation":null,
+        "spanishTranslation":"poco",
+        "example":""
+    },
+    {
+        "word":"外",
+        "pinyin":"wài",
+        "englishTranslation":null,
+        "spanishTranslation":"extranjero",
+        "example":""
+    },
+    {
+        "word":"外国",
+        "pinyin":"wàiguó",
+        "englishTranslation":null,
+        "spanishTranslation":"país extranjero",
+        "example":""
+    },
+    {
+        "word":"百",
+        "pinyin":"bǎi",
+        "englishTranslation":null,
+        "spanishTranslation":"cien",
         "example":""
     },
     {
@@ -178,7 +290,7 @@ const chineseVocabulary = [
         "word":"杯子蛋糕",
         "pinyin":"bēizi dàngāo",
         "englishTranslation":"cupcake",
-        "spanishTranslation":null,
+        "spanishTranslation":"",
         "example":""
     },
     {
@@ -229,6 +341,104 @@ const chineseVocabulary = [
         "englishTranslation":null,
         "spanishTranslation":"negro/a",
         "example":"两只黑狗，四只黑猫，黑咖啡，黑巧克力，黑啤酒"
+    },
+    {
+        "word":"家",
+        "pinyin":"jiā",
+        "englishTranslation":null,
+        "spanishTranslation":"familia, hogar",
+        "example":"我们家，你们家，他们家"
+    },
+    {
+        "word":"口",
+        "pinyin":"kǒu",
+        "englishTranslation":null,
+        "spanishTranslation":"clasificador usado principalmente para referirse al número de miembros de una familia",
+        "example":""
+    },
+    {
+        "word":"照片",
+        "pinyin":"zhàopiàn",
+        "englishTranslation":null,
+        "spanishTranslation":"fotografía",
+        "example":"我的照片，我们家的照片"
+    },
+    {
+        "word":"和",
+        "pinyin":"hé",
+        "englishTranslation":null,
+        "spanishTranslation":"y",
+        "example":"爸爸和妈妈，哥哥和我，你和他"
+    },
+    {
+        "word":"个",
+        "pinyin":"gè",
+        "englishTranslation":null,
+        "spanishTranslation":"clasificador de uso general",
+        "example":"几个弟弟，一个朋友，五个医生，七个学院，九个系"
+    },
+    {
+        "word":"两",
+        "pinyin":"liǎng",
+        "englishTranslation":null,
+        "spanishTranslation":"dos",
+        "example":"两口人，两个姐姐，两个老师，两个系"
+    },
+    {
+        "word":"还",
+        "pinyin":"hái",
+        "englishTranslation":null,
+        "spanishTranslation":"además",
+        "example":"还有，还要，还认识，还学习"
+    },
+    {
+        "word":"一共",
+        "pinyin":"yígòng",
+        "englishTranslation":null,
+        "spanishTranslation":"en total",
+        "example":"一共有六口人"
+    },
+    {
+        "word":"小",
+        "pinyin":"xiǎo",
+        "englishTranslation":null,
+        "spanishTranslation":"pequeño",
+        "example":"小弟弟，小妹妹"
+    },
+    {
+        "word":"张",
+        "pinyin":"zhāng",
+        "englishTranslation":null,
+        "spanishTranslation":"clasificador de objetos planos",
+        "example":"两张照片，一张名片"
+    },
+    {
+        "word":"真",
+        "pinyin":"zhēn",
+        "englishTranslation":null,
+        "spanishTranslation":"realmente/real",
+        "example":"真的，真忙，真高兴，真有意思"
+    },
+    {
+        "word":"可爱",
+        "pinyin":"kě'ài",
+        "englishTranslation":null,
+        "spanishTranslation":"adorable, agradable",
+        "example":"真可爱，可爱的照片"
+    },
+    {
+        "word":"爱",
+        "pinyin":"ài",
+        "englishTranslation":null,
+        "spanishTranslation":"amar",
+        "example":"爱爸爸，爱妈妈，爱弟弟妹妹"
+    },
+    {
+        "word":"没",
+        "pinyin":"méi",
+        "englishTranslation":null,
+        "spanishTranslation":"no",
+        "example":"没有"
     },
     {
         "word":"快乐",
@@ -1088,7 +1298,7 @@ const chineseVocabulary = [
         "word":"喜欢",
         "pinyin":"xǐhuān",
         "englishTranslation":null,
-        "spanishTranslation":"gustar",
+        "spanishTranslation":"gustar, preferir",
         "example":""
     },
     {
@@ -1761,7 +1971,7 @@ const chineseVocabulary = [
         "word":"几",
         "pinyin":"jǐ",
         "englishTranslation":null,
-        "spanishTranslation":"cuánto",
+        "spanishTranslation":"cuántos",
         "example":""
     },
     {
