@@ -2,14 +2,14 @@ const chineseVocabulary = [
     {
         "word":"单身",
         "pinyin":"dānshēn",
-        "englishTranslation":null,
+        "englishTranslation":"single",
         "spanishTranslation":"soltero/a",
         "example":""
     },
     {
         "word":"已婚",
         "pinyin":"yǐhūn",
-        "englishTranslation":null,
+        "englishTranslation":"married",
         "spanishTranslation":"casado/a",
         "example":""
     },
@@ -30,7 +30,7 @@ const chineseVocabulary = [
     {
         "word":"分开",
         "pinyin":"fēnkāi",
-        "englishTranslation":null,
+        "englishTranslation":"to separate",
         "spanishTranslation":"separarse",
         "example":""
     },
@@ -121,49 +121,49 @@ const chineseVocabulary = [
     {
         "word":"退休",
         "pinyin":"tuìxiū",
-        "englishTranslation":null,
+        "englishTranslation":"to retire",
         "spanishTranslation":"retirarse, jubilarse",
         "example":""
     },
     {
         "word":"车",
         "pinyin":"chē",
-        "englishTranslation":null,
+        "englishTranslation":"car, vehicle",
         "spanishTranslation":"coche, vehículo",
         "example":""
     },
     {
         "word":"词典",
         "pinyin":"cídiǎn",
-        "englishTranslation":null,
+        "englishTranslation":"dictionary",
         "spanishTranslation":"diccionario",
         "example":""
     },
     {
         "word":"电脑",
         "pinyin":"diànnǎo",
-        "englishTranslation":null,
+        "englishTranslation":"computer",
         "spanishTranslation":"computadora",
         "example":""
     },
     {
         "word":"孩子",
         "pinyin":"háizi",
-        "englishTranslation":null,
+        "englishTranslation":"child",
         "spanishTranslation":"niño",
         "example":""
     },
     {
         "word":"爷爷",
         "pinyin":"yéye",
-        "englishTranslation":null,
+        "englishTranslation":"paternal grandfather",
         "spanishTranslation":"abuelo paterno",
         "example":""
     },
     {
         "word":"外公",
         "pinyin":"wàigōng",
-        "englishTranslation":null,
+        "englishTranslation":"maternal grandfather",
         "spanishTranslation":"abuelo materno",
         "example":""
     },
@@ -177,112 +177,112 @@ const chineseVocabulary = [
     {
         "word":"助教",
         "pinyin":"zhùjiào",
-        "englishTranslation":null,
+        "englishTranslation":"teaching assistant",
         "spanishTranslation":"ayudante de profesor",
         "example":""
     },
     {
         "word":"律师",
         "pinyin":"lǜshī",
-        "englishTranslation":null,
+        "englishTranslation":"lawyer",
         "spanishTranslation":"abogado",
         "example":""
     },
     {
         "word":"工程师",
         "pinyin":"gōngchéngshī",
-        "englishTranslation":null,
+        "englishTranslation":"engineer",
         "spanishTranslation":"ingeniero",
         "example":""
     },
     {
         "word":"大",
         "pinyin":"dà",
-        "englishTranslation":null,
+        "englishTranslation":"big",
         "spanishTranslation":"grande, voluminoso",
         "example":""
     },
     {
         "word":"多少",
         "pinyin":"duōshao",
-        "englishTranslation":null,
+        "englishTranslation":"how much",
         "spanishTranslation":"cuántos",
         "example":""
     },
     {
         "word":"多",
         "pinyin":"duō",
-        "englishTranslation":null,
+        "englishTranslation":"a lot",
         "spanishTranslation":"mucho",
         "example":""
     },
     {
         "word":"少",
         "pinyin":"shǎo",
-        "englishTranslation":null,
+        "englishTranslation":"a little",
         "spanishTranslation":"poco",
         "example":""
     },
     {
         "word":"外",
         "pinyin":"wài",
-        "englishTranslation":null,
+        "englishTranslation":"foreign",
         "spanishTranslation":"extranjero",
         "example":""
     },
     {
         "word":"外国",
         "pinyin":"wàiguó",
-        "englishTranslation":null,
+        "englishTranslation":"foreign country",
         "spanishTranslation":"país extranjero",
         "example":""
     },
     {
         "word":"百",
         "pinyin":"bǎi",
-        "englishTranslation":null,
+        "englishTranslation":"a hundred",
         "spanishTranslation":"cien",
         "example":""
     },
     {
         "word":"想",
         "pinyin":"xiǎng",
-        "englishTranslation":null,
+        "englishTranslation":"to wish, to think",
         "spanishTranslation":"desear, pensar",
         "example":""
     },
     {
         "word":"我想...",
         "pinyin":"wǒxiǎng",
-        "englishTranslation":null,
+        "englishTranslation":"I would like..., I think...",
         "spanishTranslation":"me gustaría..., pienso....",
         "example":""
     },
     {
         "word":"甜点",
         "pinyin":"tiándiǎn",
-        "englishTranslation":null,
+        "englishTranslation":"dessert",
         "spanishTranslation":"postre, dulces",
         "example":""
     },
     {
         "word":"甜",
         "pinyin":"tián",
-        "englishTranslation":null,
+        "englishTranslation":"sweet",
         "spanishTranslation":"dulce",
         "example":""
     },
     {
         "word":"点",
         "pinyin":"diǎn",
-        "englishTranslation":null,
+        "englishTranslation":"point",
         "spanishTranslation":"punto",
         "example":""
     },
     {
         "word":"布丁",
         "pinyin":"bùdīng",
-        "englishTranslation":null,
+        "englishTranslation":"pudding",
         "spanishTranslation":"flan",
         "example":""
     },
@@ -296,28 +296,28 @@ const chineseVocabulary = [
     {
         "word":"蛋糕",
         "pinyin":"dàngāo",
-        "englishTranslation":null,
+        "englishTranslation":"cake",
         "spanishTranslation":"torta",
         "example":""
     },
     {
         "word":"糕",
         "pinyin":"gāo",
-        "englishTranslation":null,
+        "englishTranslation":"cake",
         "spanishTranslation":"pastel",
         "example":""
     },
     {
         "word":"狗",
         "pinyin":"gǒu",
-        "englishTranslation":null,
+        "englishTranslation":"dog",
         "spanishTranslation":"perro/a",
         "example":""
     },
     {
         "word":"猫",
         "pinyin":"māo",
-        "englishTranslation":null,
+        "englishTranslation":"cat",
         "spanishTranslation":"gato/a",
         "example":""
     },
@@ -331,21 +331,21 @@ const chineseVocabulary = [
     {
         "word":"白",
         "pinyin":"bái",
-        "englishTranslation":null,
+        "englishTranslation":"white",
         "spanishTranslation":"blanco/a",
         "example":"一只白狗，白巧克力"
     },
     {
         "word":"黑",
         "pinyin":"hēi",
-        "englishTranslation":null,
+        "englishTranslation":"black",
         "spanishTranslation":"negro/a",
         "example":"两只黑狗，四只黑猫，黑咖啡，黑巧克力，黑啤酒"
     },
     {
         "word":"家",
         "pinyin":"jiā",
-        "englishTranslation":null,
+        "englishTranslation":"family, home",
         "spanishTranslation":"familia, hogar",
         "example":"我们家，你们家，他们家"
     },
@@ -359,14 +359,14 @@ const chineseVocabulary = [
     {
         "word":"照片",
         "pinyin":"zhàopiàn",
-        "englishTranslation":null,
+        "englishTranslation":"photography",
         "spanishTranslation":"fotografía",
         "example":"我的照片，我们家的照片"
     },
     {
         "word":"和",
         "pinyin":"hé",
-        "englishTranslation":null,
+        "englishTranslation":"and",
         "spanishTranslation":"y",
         "example":"爸爸和妈妈，哥哥和我，你和他"
     },
@@ -380,28 +380,28 @@ const chineseVocabulary = [
     {
         "word":"两",
         "pinyin":"liǎng",
-        "englishTranslation":null,
+        "englishTranslation":"two",
         "spanishTranslation":"dos",
         "example":"两口人，两个姐姐，两个老师，两个系"
     },
     {
         "word":"还",
         "pinyin":"hái",
-        "englishTranslation":null,
+        "englishTranslation":"also",
         "spanishTranslation":"además",
         "example":"还有，还要，还认识，还学习"
     },
     {
         "word":"一共",
         "pinyin":"yígòng",
-        "englishTranslation":null,
+        "englishTranslation":"in total",
         "spanishTranslation":"en total",
         "example":"一共有六口人"
     },
     {
         "word":"小",
         "pinyin":"xiǎo",
-        "englishTranslation":null,
+        "englishTranslation":"small",
         "spanishTranslation":"pequeño",
         "example":"小弟弟，小妹妹"
     },
@@ -415,105 +415,105 @@ const chineseVocabulary = [
     {
         "word":"真",
         "pinyin":"zhēn",
-        "englishTranslation":null,
+        "englishTranslation":"really/real",
         "spanishTranslation":"realmente/real",
         "example":"真的，真忙，真高兴，真有意思"
     },
     {
         "word":"可爱",
         "pinyin":"kě'ài",
-        "englishTranslation":null,
+        "englishTranslation":"adorable, cute",
         "spanishTranslation":"adorable, agradable",
         "example":"真可爱，可爱的照片"
     },
     {
         "word":"爱",
         "pinyin":"ài",
-        "englishTranslation":null,
+        "englishTranslation":"to love",
         "spanishTranslation":"amar",
         "example":"爱爸爸，爱妈妈，爱弟弟妹妹"
     },
     {
         "word":"没",
         "pinyin":"méi",
-        "englishTranslation":null,
+        "englishTranslation":"not",
         "spanishTranslation":"no",
         "example":"没有"
     },
     {
         "word":"快乐",
         "pinyin":"kuàilè",
-        "englishTranslation":null,
+        "englishTranslation":"happy",
         "spanishTranslation":"feliz",
         "example":""
     },
     {
         "word":"快",
         "pinyin":"kuài",
-        "englishTranslation":null,
+        "englishTranslation":"fast",
         "spanishTranslation":"rápido/a",
         "example":"很快，太快了，快餐，快餐厅"
     },
     {
         "word":"为什么",
         "pinyin":"wèi shénme",
-        "englishTranslation":null,
+        "englishTranslation":"why?",
         "spanishTranslation":"¿por qué?",
         "example":"为什么你不喝咖啡加牛奶?"
     },
     {
         "word":"为",
         "pinyin":"wèi",
-        "englishTranslation":null,
+        "englishTranslation":"because",
         "spanishTranslation":"por",
         "example":""
     },
     {
         "word":"因为",
         "pinyin":"yīnwèi",
-        "englishTranslation":null,
+        "englishTranslation":"because",
         "spanishTranslation":"porque",
         "example":"因为我不喜欢牛奶"
     },
     {
         "word":"踢足球",
         "pinyin":"tīzúqiú",
-        "englishTranslation":null,
+        "englishTranslation":"play football",
         "spanishTranslation":"jugar fútbol",
         "example":""
     },
     {
         "word":"踢",
         "pinyin":"tī",
-        "englishTranslation":null,
+        "englishTranslation":"kick",
         "spanishTranslation":"patear",
         "example":""
     },
     {
         "word":"足",
         "pinyin":"zú",
-        "englishTranslation":null,
+        "englishTranslation":"foot",
         "spanishTranslation":"pie",
         "example":""
     },
     {
         "word":"足球",
         "pinyin":"zúqiú",
-        "englishTranslation":null,
+        "englishTranslation":"football",
         "spanishTranslation":"fútbol",
         "example":""
     },
     {
         "word":"可是",
         "pinyin":"kěshì",
-        "englishTranslation":null,
+        "englishTranslation":"but",
         "spanishTranslation":"pero",
         "example":""
     },
     {
         "word":"高尔夫球",
         "pinyin":"gāo´ěr fū qiú",
-        "englishTranslation":null,
+        "englishTranslation":"golf",
         "spanishTranslation":"golf",
         "example":""
     },
@@ -527,63 +527,63 @@ const chineseVocabulary = [
     {
         "word":"好喝",
         "pinyin":"hǎohē",
-        "englishTranslation":null,
+        "englishTranslation":"tasty",
         "spanishTranslation":"rico/a (para las bebidas)",
         "example":"姐姐说巴西咖啡很好喝，但是美国咖啡不好喝"
     },
     {
         "word":"什么时候",
         "pinyin":"shénme shíhòu",
-        "englishTranslation":null,
+        "englishTranslation":"when?",
         "spanishTranslation":"¿cuándo?",
         "example":""
     },
     {
         "word":"什么",
         "pinyin":"shénme",
-        "englishTranslation":null,
+        "englishTranslation":"what?",
         "spanishTranslation":"¿qué?",
         "example":""
     },
     {
         "word":"时候",
         "pinyin":"shíhou",
-        "englishTranslation":null,
+        "englishTranslation":"moment",
         "spanishTranslation":"momento",
         "example":"我们什么时候去星巴克喝咖啡?"
     },
     {
         "word":"现在",
         "pinyin":"xiànzài",
-        "englishTranslation":null,
+        "englishTranslation":"now",
         "spanishTranslation":"ahora",
         "example":"现在去"
     },
     {
         "word":"打球",
         "pinyin":"dǎqiú",
-        "englishTranslation":null,
+        "englishTranslation":"to play ball",
         "spanishTranslation":"jugar a la pelota",
         "example":""
     },
     {
         "word":"打",
         "pinyin":"dǎ",
-        "englishTranslation":null,
+        "englishTranslation":"to play",
         "spanishTranslation":"jugar",
         "example":""
     },
     {
         "word":"球",
         "pinyin":"qiú",
-        "englishTranslation":null,
+        "englishTranslation":"ball",
         "spanishTranslation":"pelota",
         "example":""
     },
     {
         "word":"网球",
         "pinyin":"wǎngqiú",
-        "englishTranslation":null,
+        "englishTranslation":"tennis",
         "spanishTranslation":"tenis",
         "example":""
     },
@@ -597,35 +597,35 @@ const chineseVocabulary = [
     {
         "word":"上网",
         "pinyin":"shàngwǎng",
-        "englishTranslation":null,
+        "englishTranslation":"to surf the web",
         "spanishTranslation":"navegar en el internet",
         "example":""
     },
     {
         "word":"网上",
         "pinyin":"wǎngshàng",
-        "englishTranslation":null,
+        "englishTranslation":"in the internet",
         "spanishTranslation":"en el internet",
         "example":""
     },
     {
         "word":"打网球",
         "pinyin":"dǎwǎngqiú",
-        "englishTranslation":null,
+        "englishTranslation":"to play tennis",
         "spanishTranslation":"jugar tenis",
         "example":""
     },
     {
         "word":"对",
         "pinyin":"duì",
-        "englishTranslation":null,
+        "englishTranslation":"correct",
         "spanishTranslation":"correcto, exacto",
         "example":""
     },
     {
         "word":"恐怕",
         "pinyin":"kǒngpà",
-        "englishTranslation":null,
+        "englishTranslation":"maybe",
         "spanishTranslation":"quizás, temer que",
         "example":""
     },
@@ -639,7 +639,7 @@ const chineseVocabulary = [
     {
         "word":"抱",
         "pinyin":"bào",
-        "englishTranslation":null,
+        "englishTranslation":"to hug",
         "spanishTranslation":"abrazar",
         "example":""
     },
@@ -653,49 +653,49 @@ const chineseVocabulary = [
     {
         "word":"时间",
         "pinyin":"shíjiān",
-        "englishTranslation":null,
+        "englishTranslation":"time",
         "spanishTranslation":"tiempo",
         "example":"你星期日有没有时间?"
     },
     {
         "word":"星巴克",
         "pinyin":"xīngbākè",
-        "englishTranslation":null,
+        "englishTranslation":"Starbucks",
         "spanishTranslation":"Starbucks",
         "example":""
     },
     {
         "word":"游泳",
         "pinyin":"yóuyǒng",
-        "englishTranslation":null,
+        "englishTranslation":"to swim",
         "spanishTranslation":"nadar",
         "example":""
     },
     {
         "word":"巧克力",
         "pinyin":"qiǎokèlì",
-        "englishTranslation":null,
+        "englishTranslation":"chocolate",
         "spanishTranslation":"chocolate",
         "example":""
     },
     {
         "word":"有意思",
         "pinyin":"yǒuyìsi",
-        "englishTranslation":null,
+        "englishTranslation":"interesting",
         "spanishTranslation":"interesante",
         "example":""
     },
     {
         "word":"意思",
         "pinyin":"yìsi",
-        "englishTranslation":null,
+        "englishTranslation":"meaning, to mean",
         "spanishTranslation":"significar, significado",
         "example":"这什么意思? 这是什么意思?"
     },
     {
         "word":"糖",
         "pinyin":"táng",
-        "englishTranslation":null,
+        "englishTranslation":"sugar",
         "spanishTranslation":"azúcar",
         "example":""
     },
@@ -709,35 +709,35 @@ const chineseVocabulary = [
     {
         "word":"英国",
         "pinyin":"yīngguó",
-        "englishTranslation":null,
+        "englishTranslation":"England",
         "spanishTranslation":"Inglaterra, Gran Bretaña",
         "example":""
     },
     {
         "word":"德国",
         "pinyin":"déguó",
-        "englishTranslation":null,
+        "englishTranslation":"Germany",
         "spanishTranslation":"Alemania",
         "example":""
     },
     {
         "word":"德",
         "pinyin":"dé",
-        "englishTranslation":null,
+        "englishTranslation":"virtue",
         "spanishTranslation":"virtud",
         "example":""
     },
     {
         "word":"给",
         "pinyin":"gěi",
-        "englishTranslation":null,
+        "englishTranslation":"to give",
         "spanishTranslation":"dar",
         "example":"请给我_______"
     },
     {
         "word":"进来",
         "pinyin":"jìnlai",
-        "englishTranslation":null,
+        "englishTranslation":"to enter",
         "spanishTranslation":"entrar",
         "example":""
     },
@@ -758,70 +758,70 @@ const chineseVocabulary = [
     {
         "word":"坐",
         "pinyin":"zuò",
-        "englishTranslation":null,
+        "englishTranslation":"to sit",
         "spanishTranslation":"sentarse",
         "example":"请坐"
     },
     {
         "word":"巴西",
         "pinyin":"bāxī",
-        "englishTranslation":null,
+        "englishTranslation":"Brazil",
         "spanishTranslation":"Brasil",
         "example":"巴西人、巴西咖啡"
     },
     {
         "word":"但是",
         "pinyin":"dànshì",
-        "englishTranslation":null,
+        "englishTranslation":"but",
         "spanishTranslation":"pero = 可是",
         "example":""
     },
     {
         "word":"那么",
         "pinyin":"nàme",
-        "englishTranslation":null,
+        "englishTranslation":"so",
         "spanishTranslation":"entonces",
         "example":""
     },
     {
         "word":"杯子",
         "pinyin":"bēizi",
-        "englishTranslation":null,
+        "englishTranslation":"cup, glass",
         "spanishTranslation":"vaso, taza, copa",
         "example":"一个杯子。一杯咖啡、一杯茶、三杯水、四杯果汁、五杯啤酒…"
     },
     {
         "word":"马上",
         "pinyin":"mǎshàng",
-        "englishTranslation":null,
+        "englishTranslation":"right away",
         "spanishTranslation":"enseguida",
         "example":"马上来"
     },
     {
         "word":"去",
         "pinyin":"qù",
-        "englishTranslation":null,
+        "englishTranslation":"to go",
         "spanishTranslation":"ir",
         "example":"去餐厅、去咖啡厅、去医院、去法院、去西班牙餐厅、去意大利咖啡厅、去英国医院、去医学院、去法学院、去语言学院、去医学中心"
     },
     {
         "word":"意大利",
         "pinyin":"yìdàlì",
-        "englishTranslation":null,
+        "englishTranslation":"Italy",
         "spanishTranslation":"Italia",
         "example":""
     },
     {
         "word":"学院",
         "pinyin":"xuéyuàn",
-        "englishTranslation":null,
+        "englishTranslation":"institute, university, school",
         "spanishTranslation":"instituto, universidad, escuela",
         "example":""
     },
     {
         "word":"医院",
         "pinyin":"yīyuàn",
-        "englishTranslation":null,
+        "englishTranslation":"hospital",
         "spanishTranslation":"hospital",
         "example":""
     },
@@ -835,7 +835,7 @@ const chineseVocabulary = [
     {
         "word":"餐厅",
         "pinyin":"cāntīng",
-        "englishTranslation":null,
+        "englishTranslation":"restaurant",
         "spanishTranslation":"restaurante",
         "example":"中国餐厅、法国餐厅、西班牙餐厅"
     },
@@ -849,70 +849,70 @@ const chineseVocabulary = [
     {
         "word":"吃早餐",
         "pinyin":"chīzǎocān",
-        "englishTranslation":null,
+        "englishTranslation":"to have breakfast",
         "spanishTranslation":"desayunar",
         "example":""
     },
     {
         "word":"吃中餐",
         "pinyin":"chīzhōngcān",
-        "englishTranslation":null,
+        "englishTranslation":"to have lunch",
         "spanishTranslation":"almorzar",
         "example":""
     },
     {
         "word":"吃午餐",
         "pinyin":"chīwǔcān",
-        "englishTranslation":null,
+        "englishTranslation":"to have lunch",
         "spanishTranslation":"almorzar",
         "example":""
     },
     {
         "word":"中午",
         "pinyin":"zhōngwǔ",
-        "englishTranslation":null,
+        "englishTranslation":"noon",
         "spanishTranslation":"mediodía",
         "example":""
     },
     {
         "word":"吃晚餐",
         "pinyin":"chīwǎncān",
-        "englishTranslation":null,
+        "englishTranslation":"to have dinner",
         "spanishTranslation":"cenar",
         "example":""
     },
     {
         "word":"哪儿",
         "pinyin":"nǎr",
-        "englishTranslation":null,
+        "englishTranslation":"where?",
         "spanishTranslation":"¿dónde? = 哪里",
         "example":""
     },
     {
         "word":"那儿",
         "pinyin":"nàr",
-        "englishTranslation":null,
+        "englishTranslation":"there",
         "spanishTranslation":"ahí, allí, allá = 那里",
         "example":""
     },
     {
         "word":"请问",
         "pinyin":"qǐngwèn",
-        "englishTranslation":null,
+        "englishTranslation":"Excuse me, ...",
         "spanishTranslation":"¿Podría preguntarle...?",
         "example":""
     },
     {
         "word":"请",
         "pinyin":"qǐng",
-        "englishTranslation":null,
+        "englishTranslation":"please",
         "spanishTranslation":"por favor",
         "example":"请问、请喝、请吃、请工作、请你们学习…"
     },
     {
         "word":"问",
         "pinyin":"wèn",
-        "englishTranslation":null,
+        "englishTranslation":"to ask",
         "spanishTranslation":"preguntar",
         "example":"问老师，问朋友"
     },
@@ -926,35 +926,35 @@ const chineseVocabulary = [
     {
         "word":"在",
         "pinyin":"zài",
-        "englishTranslation":null,
+        "englishTranslation":"in",
         "spanishTranslation":"en, estar",
         "example":"我在咖啡厅"
     },
     {
         "word":"哪里",
         "pinyin":"nǎlǐ",
-        "englishTranslation":null,
+        "englishTranslation":"where?",
         "spanishTranslation":"¿dónde?",
         "example":""
     },
     {
         "word":"没关系",
         "pinyin":"méi guānxì",
-        "englishTranslation":null,
+        "englishTranslation":"no problem",
         "spanishTranslation":"no importa, no pasa nada, todo bien",
         "example":""
     },
     {
         "word":"那里",
         "pinyin":"nàlǐ",
-        "englishTranslation":null,
+        "englishTranslation":"there",
         "spanishTranslation":"ahí, allí, allá",
         "example":""
     },
     {
         "word":"不客气",
         "pinyin":"bù kèqì",
-        "englishTranslation":null,
+        "englishTranslation":"you're welcome",
         "spanishTranslation":"de nada",
         "example":""
     },
@@ -989,28 +989,21 @@ const chineseVocabulary = [
     {
         "word":"贵",
         "pinyin":"guì",
-        "englishTranslation":null,
+        "englishTranslation":"expensive",
         "spanishTranslation":"caro/a, noble, honorable",
-        "example":""
-    },
-    {
-        "word":"陈",
-        "pinyin":"chén",
-        "englishTranslation":null,
-        "spanishTranslation":"un apellido",
         "example":""
     },
     {
         "word":"法国",
         "pinyin":"fǎguó",
-        "englishTranslation":null,
+        "englishTranslation":"France",
         "spanishTranslation":"Francia",
         "example":""
     },
     {
         "word":"法",
         "pinyin":"fǎ",
-        "englishTranslation":null,
+        "englishTranslation":"law",
         "spanishTranslation":"ley",
         "example":""
     },
@@ -1024,175 +1017,175 @@ const chineseVocabulary = [
     {
         "word":"语言",
         "pinyin":"yǔyán",
-        "englishTranslation":null,
+        "englishTranslation":"language",
         "spanishTranslation":"idioma, lengua",
         "example":"你说什么语言?"
     },
     {
         "word":"西班牙",
         "pinyin":"xībānyá",
-        "englishTranslation":null,
+        "englishTranslation":"Spain",
         "spanishTranslation":"España",
         "example":""
     },
     {
         "word":"西班牙语",
         "pinyin":"xībānyáyǔ",
-        "englishTranslation":null,
+        "englishTranslation":"Spanish language",
         "spanishTranslation":"idioma español",
         "example":""
     },
     {
         "word":"西班牙文",
         "pinyin":"xībānyáwén",
-        "englishTranslation":null,
+        "englishTranslation":"Spanish language",
         "spanishTranslation":"idioma español",
         "example":""
     },
     {
         "word":"果汁",
         "pinyin":"guǒzhī",
-        "englishTranslation":null,
+        "englishTranslation":"juice",
         "spanishTranslation":"jugo",
         "example":""
     },
     {
         "word":"果",
         "pinyin":"guǒ",
-        "englishTranslation":null,
+        "englishTranslation":"fruit",
         "spanishTranslation":"fruto",
         "example":""
     },
     {
         "word":"汁",
         "pinyin":"zhī",
-        "englishTranslation":null,
+        "englishTranslation":"juice",
         "spanishTranslation":"jugo",
         "example":""
     },
     {
         "word":"三明治",
         "pinyin":"sānmíngzhì",
-        "englishTranslation":null,
+        "englishTranslation":"sandwich",
         "spanishTranslation":"sándwich",
         "example":""
     },
     {
         "word":"做",
         "pinyin":"zuò",
-        "englishTranslation":null,
+        "englishTranslation":"to do",
         "spanishTranslation":"hacer",
         "example":"你做什么工作?"
     },
     {
         "word":"医生",
         "pinyin":"yīshēng",
-        "englishTranslation":null,
+        "englishTranslation":"doctor",
         "spanishTranslation":"médico/a",
         "example":""
     },
     {
         "word":"记者",
         "pinyin":"jìzhě",
-        "englishTranslation":null,
+        "englishTranslation":"reporter",
         "spanishTranslation":"periodista",
         "example":""
     },
     {
         "word":"汽水",
         "pinyin":"qìshuǐ",
-        "englishTranslation":null,
+        "englishTranslation":"soda",
         "spanishTranslation":"gaseosa",
         "example":""
     },
     {
         "word":"汽",
         "pinyin":"qì",
-        "englishTranslation":null,
+        "englishTranslation":"gas",
         "spanishTranslation":"gas, vapor",
         "example":""
     },
     {
         "word":"汉语",
         "pinyin":"hànyǔ",
-        "englishTranslation":null,
+        "englishTranslation":"Chinese language",
         "spanishTranslation":"idioma chino",
         "example":""
     },
     {
         "word":"语",
         "pinyin":"yǔ",
-        "englishTranslation":null,
+        "englishTranslation":"language",
         "spanishTranslation":"lengua, idioma",
         "example":""
     },
     {
         "word":"外语",
         "pinyin":"wàiyǔ",
-        "englishTranslation":null,
+        "englishTranslation":"foreign language",
         "spanishTranslation":"lengua extranjera",
         "example":""
     },
     {
         "word":"说",
         "pinyin":"shuō",
-        "englishTranslation":null,
+        "englishTranslation":"to speak",
         "spanishTranslation":"hablar",
         "example":""
     },
     {
         "word":"英语",
         "pinyin":"yīngyǔ",
-        "englishTranslation":null,
+        "englishTranslation":"English language",
         "spanishTranslation":"idioma inglés",
         "example":""
     },
     {
         "word":"当然",
         "pinyin":"dāngrán",
-        "englishTranslation":null,
+        "englishTranslation":"of course",
         "spanishTranslation":"por supuesto, obvio",
         "example":""
     },
     {
         "word":"美国",
         "pinyin":"měiguó",
-        "englishTranslation":null,
+        "englishTranslation":"United States",
         "spanishTranslation":"Estados Unidos",
         "example":""
     },
     {
         "word":"美",
         "pinyin":"měi",
-        "englishTranslation":null,
+        "englishTranslation":"beauty",
         "spanishTranslation":"hermosura, belleza",
         "example":""
     },
     {
         "word":"吃",
         "pinyin":"chī",
-        "englishTranslation":null,
+        "englishTranslation":"to eat",
         "spanishTranslation":"comer",
         "example":""
     },
     {
         "word":"面包",
         "pinyin":"miànbāo",
-        "englishTranslation":null,
+        "englishTranslation":"bread",
         "spanishTranslation":"pan",
         "example":""
     },
     {
         "word":"啤酒",
         "pinyin":"píjiǔ",
-        "englishTranslation":null,
+        "englishTranslation":"beer",
         "spanishTranslation":"cerveza",
         "example":""
     },
     {
         "word":"太",
         "pinyin":"tài",
-        "englishTranslation":null,
+        "englishTranslation":"too much",
         "spanishTranslation":"demasiado",
         "example":""
     },
@@ -1213,35 +1206,35 @@ const chineseVocabulary = [
     {
         "word":"老师",
         "pinyin":"lǎoshī",
-        "englishTranslation":null,
+        "englishTranslation":"professor",
         "spanishTranslation":"profesor",
         "example":""
     },
     {
         "word":"那",
         "pinyin":"nà",
-        "englishTranslation":null,
+        "englishTranslation":"that",
         "spanishTranslation":"ése/a, aquél, aquélla",
         "example":""
     },
     {
         "word":"人",
         "pinyin":"rén",
-        "englishTranslation":null,
+        "englishTranslation":"person",
         "spanishTranslation":"gente, persona",
         "example":""
     },
     {
         "word":"哪",
         "pinyin":"nǎ",
-        "englishTranslation":null,
+        "englishTranslation":"which?",
         "spanishTranslation":"¿cuál? ¿de qué?",
         "example":""
     },
     {
         "word":"英国",
         "pinyin":"yīngguó",
-        "englishTranslation":null,
+        "englishTranslation":"England",
         "spanishTranslation":"Inglaterra",
         "example":""
     },
@@ -1255,14 +1248,14 @@ const chineseVocabulary = [
     {
         "word":"红茶",
         "pinyin":"hóngchá",
-        "englishTranslation":null,
+        "englishTranslation":"black tea",
         "spanishTranslation":"té negro",
         "example":""
     },
     {
         "word":"加拿大",
         "pinyin":"jiānádà",
-        "englishTranslation":null,
+        "englishTranslation":"Canada",
         "spanishTranslation":"Canadá",
         "example":""
     },
@@ -1276,7 +1269,7 @@ const chineseVocabulary = [
     {
         "word":"牛奶",
         "pinyin":"niúnǎi",
-        "englishTranslation":null,
+        "englishTranslation":"milk",
         "spanishTranslation":"leche de vaca",
         "example":""
     },
@@ -1290,84 +1283,84 @@ const chineseVocabulary = [
     {
         "word":"奶",
         "pinyin":"nǎi",
-        "englishTranslation":null,
+        "englishTranslation":"milk",
         "spanishTranslation":"leche",
         "example":""
     },
     {
         "word":"喜欢",
         "pinyin":"xǐhuān",
-        "englishTranslation":null,
+        "englishTranslation":"to like, to prefer",
         "spanishTranslation":"gustar, preferir",
         "example":""
     },
     {
         "word":"红酒",
         "pinyin":"hóngjiǔ",
-        "englishTranslation":null,
+        "englishTranslation":"red wine",
         "spanishTranslation":"vino tinto",
         "example":""
     },
     {
         "word":"红",
         "pinyin":"hóng",
-        "englishTranslation":null,
+        "englishTranslation":"red",
         "spanishTranslation":"rojo/a",
         "example":""
     },
     {
         "word":"中文",
         "pinyin":"zhōngwén",
-        "englishTranslation":null,
+        "englishTranslation":"Chinese language",
         "spanishTranslation":"idioma chino",
         "example":"中文名字，中文名片"
     },
     {
         "word":"中",
         "pinyin":"zhōng",
-        "englishTranslation":null,
+        "englishTranslation":"center",
         "spanishTranslation":"centro, medio",
         "example":""
     },
     {
         "word":"文",
         "pinyin":"wén",
-        "englishTranslation":null,
+        "englishTranslation":"writing",
         "spanishTranslation":"escritura, letra",
         "example":""
     },
     {
         "word":"水",
         "pinyin":"shuǐ",
-        "englishTranslation":null,
+        "englishTranslation":"water",
         "spanishTranslation":"agua",
         "example":""
     },
     {
         "word":"可乐",
         "pinyin":"kělè",
-        "englishTranslation":null,
+        "englishTranslation":"Coke",
         "spanishTranslation":"cola",
         "example":""
     },
     {
         "word":"乐",
         "pinyin":"lè",
-        "englishTranslation":null,
+        "englishTranslation":"happy",
         "spanishTranslation":"feliz, jubiloso/a",
         "example":""
     },
     {
         "word":"有",
         "pinyin":"yǒu",
-        "englishTranslation":null,
+        "englishTranslation":"to have",
         "spanishTranslation":"tener, haber",
         "example":""
     },
     {
         "word":"没有",
         "pinyin":"méiyǒu",
-        "englishTranslation":null,
+        "englishTranslation":"to not have",
         "spanishTranslation":"no tener",
         "example":""
     },
@@ -1381,14 +1374,14 @@ const chineseVocabulary = [
     {
         "word":"酒",
         "pinyin":"jiǔ",
-        "englishTranslation":null,
+        "englishTranslation":"alcoholic drink",
         "spanishTranslation":"bebida alcohólica",
         "example":""
     },
     {
         "word":"茶",
         "pinyin":"chá",
-        "englishTranslation":null,
+        "englishTranslation":"tea",
         "spanishTranslation":"té",
         "example":""
     },
@@ -1459,35 +1452,35 @@ const chineseVocabulary = [
     {
         "word":"姐姐",
         "pinyin":"jiějie",
-        "englishTranslation":null,
+        "englishTranslation":"older sister",
         "spanishTranslation":"hermana mayor",
         "example":""
     },
     {
         "word":"妹妹",
         "pinyin":"mèimei",
-        "englishTranslation":null,
+        "englishTranslation":"younger sister",
         "spanishTranslation":"hermana menor",
         "example":""
     },
     {
         "word":"名字",
         "pinyin":"míngzi",
-        "englishTranslation":null,
+        "englishTranslation":"name",
         "spanishTranslation":"nombre",
         "example":"你的名字，叫什么名字"
     },
     {
         "word":"介绍",
         "pinyin":"jièshào",
-        "englishTranslation":null,
+        "englishTranslation":"to present",
         "spanishTranslation":"presentar",
         "example":"介绍林娜，介绍语言学院"
     },
     {
         "word":"谁",
         "pinyin":"shéi",
-        "englishTranslation":null,
+        "englishTranslation":"who?",
         "spanishTranslation":"¿quién?",
         "example":""
     },
@@ -1501,21 +1494,21 @@ const chineseVocabulary = [
     {
         "word":"教授",
         "pinyin":"jiàoshòu",
-        "englishTranslation":"",
+        "englishTranslation":"university professor",
         "spanishTranslation":"profesor universitario",
         "example":""
     },
     {
         "word":"教",
         "pinyin":"jiào",
-        "englishTranslation":"",
+        "englishTranslation":"to teach",
         "spanishTranslation":"enseñar, impartir clase",
         "example":""
     },
     {
         "word":"名片",
         "pinyin":"míngpiàn",
-        "englishTranslation":"",
+        "englishTranslation":"name card",
         "spanishTranslation":"tarjeta de visita",
         "example":"我的名片，老师的名片"
     },
@@ -1536,7 +1529,7 @@ const chineseVocabulary = [
     {
         "word":"贵",
         "pinyin":"guì",
-        "englishTranslation":null,
+        "englishTranslation":"expensive, honorable",
         "spanishTranslation":"caro/a, noble, honorable",
         "example":"您贵姓? 我姓________。"
     },
@@ -1550,7 +1543,7 @@ const chineseVocabulary = [
     {
         "word":"这",
         "pinyin":"zhè",
-        "englishTranslation":null,
+        "englishTranslation":"this",
         "spanishTranslation":"éste/a, esto",
         "example":""
     },
@@ -1564,84 +1557,84 @@ const chineseVocabulary = [
     {
         "word":"看",
         "pinyin":"kàn",
-        "englishTranslation":null,
+        "englishTranslation":"to see",
         "spanishTranslation":"mirar, ver",
         "example":"看老师，看这儿"
     },
     {
         "word":"高兴",
         "pinyin":"gāoxìng",
-        "englishTranslation":null,
+        "englishTranslation":"happy",
         "spanishTranslation":"contento/a",
         "example":""
     },
     {
         "word":"认识",
         "pinyin":"rènshi",
-        "englishTranslation":null,
+        "englishTranslation":"to know (someone)",
         "spanishTranslation":"conocer",
         "example":""
     },
     {
         "word":"很高兴认识你",
         "pinyin":"hěngāoxìngrènshinǐ",
-        "englishTranslation":null,
+        "englishTranslation":"nice to meet you",
         "spanishTranslation":"mucho gusto",
         "example":""
     },
     {
         "word":"认识你很高兴",
         "pinyin":"rènshinǐhěngāoxìng",
-        "englishTranslation":null,
+        "englishTranslation":"nice to meet you",
         "spanishTranslation":"mucho gusto",
         "example":""
     },
     {
         "word":"高",
         "pinyin":"gāo",
-        "englishTranslation":null,
+        "englishTranslation":"tall",
         "spanishTranslation":"alto",
         "example":""
     },
     {
         "word":"文化",
         "pinyin":"wénhuà",
-        "englishTranslation":null,
+        "englishTranslation":"culture",
         "spanishTranslation":"cultura",
         "example":""
     },
     {
         "word":"历史",
         "pinyin":"lìshǐ",
-        "englishTranslation":null,
+        "englishTranslation":"history",
         "spanishTranslation":"historia",
         "example":""
     },
     {
         "word":"哲学",
         "pinyin":"zhéxué",
-        "englishTranslation":null,
+        "englishTranslation":"philosophy",
         "spanishTranslation":"filosofía",
         "example":""
     },
     {
         "word":"音乐",
         "pinyin":"yīnyuè",
-        "englishTranslation":null,
+        "englishTranslation":"music",
         "spanishTranslation":"música",
         "example":""
     },
     {
         "word":"经济",
         "pinyin":"jīngjì",
-        "englishTranslation":null,
+        "englishTranslation":"economics",
         "spanishTranslation":"economía",
         "example":""
     },
     {
         "word":"数学",
         "pinyin":"shùxué",
-        "englishTranslation":null,
+        "englishTranslation":"mathematics",
         "spanishTranslation":"matemáticas",
         "example":""
     },
@@ -1655,14 +1648,14 @@ const chineseVocabulary = [
     {
         "word":"化学",
         "pinyin":"huàxué",
-        "englishTranslation":null,
+        "englishTranslation":"chemistry",
         "spanishTranslation":"química",
         "example":""
     },
     {
         "word":"教育",
         "pinyin":"jiàoyù",
-        "englishTranslation":null,
+        "englishTranslation":"education",
         "spanishTranslation":"educación",
         "example":""
     },
@@ -1676,7 +1669,7 @@ const chineseVocabulary = [
     {
         "word":"专业",
         "pinyin":"zhuānyè",
-        "englishTranslation":null,
+        "englishTranslation":"career, specialty",
         "spanishTranslation":"carrera, especialidad",
         "example":"中文专业，汉语专业，语言专业"
     },
@@ -1690,70 +1683,70 @@ const chineseVocabulary = [
     {
         "word":"文学",
         "pinyin":"wénxué",
-        "englishTranslation":null,
+        "englishTranslation":"literature",
         "spanishTranslation":"literatura",
         "example":"中国文学，文学专业"
     },
     {
         "word":"系",
         "pinyin":"xì",
-        "englishTranslation":null,
+        "englishTranslation":"faculty, department",
         "spanishTranslation":"facultad, departamento",
         "example":"汉语系，语言系，中文系"
     },
     {
         "word":"开",
         "pinyin":"kāi",
-        "englishTranslation":null,
+        "englishTranslation":"to start",
         "spanishTranslation":"empezar",
         "example":""
     },
     {
         "word":"开学",
         "pinyin":"kāixué",
-        "englishTranslation":null,
+        "englishTranslation":"to begin school",
         "spanishTranslation":"empezar el colegio",
         "example":""
     },
     {
         "word":"学生",
         "pinyin":"xuésheng",
-        "englishTranslation":null,
+        "englishTranslation":"student",
         "spanishTranslation":"estudiante",
         "example":""
     },
     {
         "word":"学习",
         "pinyin":"xuéxí",
-        "englishTranslation":null,
+        "englishTranslation":"to study, to learn",
         "spanishTranslation":"estudiar, aprender",
         "example":""
     },
     {
         "word":"学",
         "pinyin":"xué",
-        "englishTranslation":null,
+        "englishTranslation":"to study, to learn",
         "spanishTranslation":"estudiar, aprender",
         "example":"学中文，学汉语"
     },
     {
         "word":"身体",
         "pinyin":"shēntǐ",
-        "englishTranslation":null,
+        "englishTranslation":"body, health",
         "spanishTranslation":"cuerpo, salud",
         "example":""
     },
     {
         "word":"工作",
         "pinyin":"gōngzuò",
-        "englishTranslation":null,
+        "englishTranslation":"work, to work",
         "spanishTranslation":"trabajo, trabajar",
         "example":""
     },
     {
         "word":"宿舍",
         "pinyin":"sùshè",
-        "englishTranslation":null,
+        "englishTranslation":"dorm",
         "spanishTranslation":"dormitorio",
         "example":""
     },
@@ -1851,35 +1844,35 @@ const chineseVocabulary = [
     {
         "word":"朋友",
         "pinyin":"péngyǒu",
-        "englishTranslation":null,
+        "englishTranslation":"friend",
         "spanishTranslation":"amigo/a",
         "example":""
     },
     {
         "word":"年",
         "pinyin":"nián",
-        "englishTranslation":null,
+        "englishTranslation":"year",
         "spanishTranslation":"año",
         "example":""
     },
     {
         "word":"零",
         "pinyin":"líng",
-        "englishTranslation":null,
+        "englishTranslation":"zero",
         "spanishTranslation":"cero",
         "example":""
     },
     {
         "word":"〇",
         "pinyin":"líng",
-        "englishTranslation":null,
+        "englishTranslation":"zero",
         "spanishTranslation":"cero",
         "example":""
     },
     {
         "word":"京剧",
         "pinyin":"jīngjù",
-        "englishTranslation":null,
+        "englishTranslation":"Pekin Opera",
         "spanishTranslation":"Ópera de Pekín",
         "example":""
     },
@@ -1907,7 +1900,7 @@ const chineseVocabulary = [
     {
         "word":"昨天",
         "pinyin":"zuótiān",
-        "englishTranslation":null,
+        "englishTranslation":"yesterday",
         "spanishTranslation":"ayer",
         "example":""
     },
@@ -1921,7 +1914,7 @@ const chineseVocabulary = [
     {
         "word":"王",
         "pinyin":"wáng",
-        "englishTranslation":null,
+        "englishTranslation":"king",
         "spanishTranslation":"rey",
         "example":""
     },
@@ -1956,14 +1949,14 @@ const chineseVocabulary = [
     {
         "word":"他",
         "pinyin":"tā",
-        "englishTranslation":null,
+        "englishTranslation":"he",
         "spanishTranslation":"él",
         "example":""
     },
     {
         "word":"她",
         "pinyin":"tā",
-        "englishTranslation":null,
+        "englishTranslation":"she",
         "spanishTranslation":"ella",
         "example":""
     },
@@ -1977,49 +1970,49 @@ const chineseVocabulary = [
     {
         "word":"几月",
         "pinyin":"jǐyuè",
-        "englishTranslation":null,
+        "englishTranslation":"what month?",
         "spanishTranslation":"¿qué mes?",
         "example":""
     },
     {
         "word":"几号",
         "pinyin":"jǐhào",
-        "englishTranslation":null,
+        "englishTranslation":"what day?",
         "spanishTranslation":"¿qué día?",
         "example":""
     },
     {
         "word":"几月几号",
         "pinyin":"jǐyuèjǐhào",
-        "englishTranslation":null,
+        "englishTranslation":"what date?",
         "spanishTranslation":"¿qué fecha?",
         "example":""
     },
     {
         "word":"星期几",
         "pinyin":"xīngqījǐ",
-        "englishTranslation":null,
+        "englishTranslation":"what weekday?",
         "spanishTranslation":"¿qué día de la semana?",
         "example":""
     },
     {
         "word":"星期",
         "pinyin":"xīngqī",
-        "englishTranslation":null,
+        "englishTranslation":"week",
         "spanishTranslation":"semana",
         "example":""
     },
     {
         "word":"星",
         "pinyin":"xīng",
-        "englishTranslation":null,
+        "englishTranslation":"star",
         "spanishTranslation":"estrella",
         "example":""
     },
     {
         "word":"期",
         "pinyin":"qī",
-        "englishTranslation":null,
+        "englishTranslation":"period",
         "spanishTranslation":"periódo",
         "example":""
     },
@@ -2082,7 +2075,7 @@ const chineseVocabulary = [
     {
         "word":"今天",
         "pinyin":"jīntiān",
-        "englishTranslation":null,
+        "englishTranslation":"today",
         "spanishTranslation":"hoy",
         "example":""
     },
