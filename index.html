@@ -17,18 +17,19 @@
     <script src="jumpToLesson.js" defer></script>
 </head>
 <body>
+    <div class="grid">
     <nav class="topnav">
         <ul>
             <li><a class="active" href="index.html">Lessons</a></li>
             <li><a href="characters.html">Characters</a></li>
-            <li><a href="vocabulary.html">Vocab</a></li>
+            <li><a href="vocabulary.html">Vocabulary</a></li>
             
         </ul>
     </nav>
-<section>
+<header>
     <h1>Lessons</h1>
-</section>
-<section>
+</header>
+<section class="lessonScroll">
     <select name="Lesson" id="selectedLesson" onchange="jumpToLesson('selectedLesson')">
         <option>Jump to lesson</option>
         <option value="1">1</option>
@@ -1918,12 +1919,11 @@
             </ul>
         </p>
     </article>
-</main>
-    
-
     <a href="#">Go back to top</a>
-    
+</main>
+
     <!--<script src="chineseVocab.js"></script>
     <script src="translation.js"></script>-->
+</div>
 </body>
 </html>

@@ -1577,14 +1577,14 @@ const chineseVocabulary = [
     },
     {
         "word":"很高兴认识你",
-        "pinyin":"hěngāoxìngrènshinǐ",
+        "pinyin":"hěn gāoxìng rènshi nǐ",
         "englishTranslation":"nice to meet you",
         "spanishTranslation":"mucho gusto",
         "example":""
     },
     {
         "word":"认识你很高兴",
-        "pinyin":"rènshinǐhěngāoxìng",
+        "pinyin":"rènshi nǐ hěn gāoxìng",
         "englishTranslation":"nice to meet you",
         "spanishTranslation":"mucho gusto",
         "example":""

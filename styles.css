@@ -1,130 +1,100 @@
-/* Reset defaults */
-body, ul, li, h1, h2, h3, a {
+body {
     margin: 0;
-    padding: 0;
-    font-family: sans-serif;
+
+}
+.grid { /*Mobile first*/
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4,auto);
+    grid-template-areas: 
+    "topnav"
+    "header"
+    "lessonScroll"
+    "main";
 }
 
-/* Add a background color to the top navigation */
 .topnav {
-    background-color: #950952;
-    overflow: hidden;
-    height: 51px;
-    
+    grid-area: topnav;
+    background-color: #950952
 }
- 
-.topnav ul {
-    height: 51px;
-    list-style-type: none;
-    background-color: #950952;
-    white-space: nowrap;
-    /*min-width: 400px;*/
+.topnav ul{
+    display: grid;
+    list-style: none;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3,1fr);
+    padding: 0;
+    margin: 0;
+    min-width: 315px;
 }
 .topnav li {
-    display: inline;
-    text-align: center;
-    height: 51px;
+    border: .1px solid #f2f2f2;
 }
-/* Style the links inside the navigation bar */
-.topnav li a{
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
+.topnav a {
+    display: block;
     text-decoration: none;
-    font-size: 20px;
-    font-family: serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 15px;
+    color: #f2f2f2;
 }
-  
-/* Change the color of links on hover */
 .topnav a:hover {
-    background-color: #e5ece9;
-    color: #0b3c49;
-    height: 51px;
+    background-color: #f2f2f2;
+    color:#950952;
+    padding: 15px;
 }
-  
-/* Add a color to the active/current link */
 .topnav a.active {
     background-color: #98ce00;
-    color: white;
-}
+    color:#f2f2f2;
+    padding: 15px;
 
-/* Page title */
-h1 {
-    color: black;
-    background: white;
-    /* padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid lightgrey;*/
 }
-
-h2 {
-    text-align: left;
-    font-size: 25px;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 20px;
+header {
+    grid-area: header;
+    background-color: #f2f2f2;
+    color:#950952;
+    text-transform: uppercase;
+    text-align: center;
+    border-top: 1px solid white;
 }
-
-section {
-    text-align: left;
-    font-size: 25px;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid lightgrey;
+.lessonScroll {
+    grid-area: lessonScroll;
+    background-color: #f2f2f2;
+    padding-bottom: 15px;
+    text-align: center;
 }
-
-article {
-    border-bottom: 1px solid lightgrey;
+#selectedLesson {
+    color:#950952;
+    border-color: #950952;
 }
-
-article p {
-    font-size: 25px;
-    padding-left: 30px;
+.goButton {
+    background-color: white;
+    border-radius: 15px;
+    border-color: #950952;
 }
-
-article p a {
-    font-size: 20px;
-    padding-left: 0px;
-    color: gray;
-}
-
-.articleBullet{
-    font-size: 25px;
-    padding-left: 30px;
-    list-style-type: none;
-}
-
-.articleBullet li {
-    font-size: 25px;
-    padding-left: 10px;
-    text-decoration: none;
-}
-
-audio {
-    padding-left: 20px;
-}
-
-button a {
-    background-color: #e7e7e7;
+.goButton a {
     border: none;
-    color: white;
+    color: #950952;
     text-align: center;
     vertical-align: middle;
     text-decoration: none;
     width: 2em;
     height: 2em;
-    border-radius: 50%;
-}
 
-a[href="#"]{
-    color: lightgray;
-    font-style: italic;
-    font-size: x-small;
 }
-
+main {
+    grid-area: main;
+    margin: 5px;
+}
+article {
+    border-bottom: 1px solid #f2f2f2;
+}
+article p {
+    padding-left: 20px;
+}
+audio {
+    padding-left: 5px;
+}
 img {
     min-width: 150px;
     max-width: 100%;
@@ -132,16 +102,8 @@ img {
     white-space: nowrap;
     width: 150px;
     height: 150px;
-    padding-left: 20px;
+
 }
-
-
-footer {
-    color: rgb(1, 66, 66);
-    font-style: oblique;
-    font-size: x-small;
-}
-
 /* Styling for vocabulary table*/
 
 .vocabTable {
@@ -149,9 +111,12 @@ footer {
     border-collapse: collapse;
     margin: 25px 0px;
     font-size: 0.9em;
-    /*min-width: 400px;*/
     border: 1px solid #dddddd;
     margin: 0;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .vocabTable thead tr {
@@ -159,12 +124,13 @@ footer {
     color: white;
     text-align: left;
     font-weight: bold;
+    text-align: center;
 }
 
 .vocabTable th, .vocabTable td {
-    padding: 12px 15px;
+    padding: 12px 10px;
     border: 1px solid #dddddd;
-    /*width: max-content;*/
+    width: max-content;
 }
 
 .vocabTable tr:nth-child(even){
@@ -175,16 +141,15 @@ footer {
     background-color: #ddd;
 }
 
-/*button {
-    background-color: #e7e7e7;
-    border: none;
-    color: white;
-    text-align: center;
-    vertical-align: middle;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    width: 2em;
-    height: 2em;
-    border-radius: 50%;
-}*/
+a[href="#"]{
+    color: lightgray;
+    font-style: italic;
+    font-size: x-small;
+}
+
+@media screen and (min-width: 600px){
+    .topnav ul{
+        grid-template-rows: 1fr;
+        grid-template-columns: repeat(3,1fr);
+    }
+}
