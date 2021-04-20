@@ -1,5 +1,292 @@
 const chineseVocabulary = [
     {
+        "word":"服务生",
+        "pinyin":"fúwùsheng",
+        "englishTranslation":"",
+        "spanishTranslation":"mozo/a",
+        "example":""
+    },
+    {
+        "word":"牛肉",
+        "pinyin":"niúròu",
+        "englishTranslation":"",
+        "spanishTranslation":"carne de vaca",
+        "example":""
+    },
+    {
+        "word":"汉堡包",
+        "pinyin":"hànbǎobāo",
+        "englishTranslation":"",
+        "spanishTranslation":"hamburguesa",
+        "example":""
+    },
+    {
+        "word":"起士",
+        "pinyin":"qǐshì",
+        "englishTranslation":"",
+        "spanishTranslation":"queso",
+        "example":""
+    },
+    {
+        "word":"还是",
+        "pinyin":"háishì",
+        "englishTranslation":"",
+        "spanishTranslation":"o",
+        "example":""
+    },
+    {
+        "word":"薯条",
+        "pinyin":"shǔtiáo",
+        "englishTranslation":"",
+        "spanishTranslation":"papas fritas",
+        "example":""
+    },
+    {
+        "word":"水果",
+        "pinyin":"shuǐguǒ",
+        "englishTranslation":"",
+        "spanishTranslation":"fruta",
+        "example":""
+    },
+    {
+        "word":"沙拉",
+        "pinyin":"shālā",
+        "englishTranslation":"",
+        "spanishTranslation":"ensalada",
+        "example":""
+    },
+    {
+        "word":"中餐",
+        "pinyin":"zhōngcān",
+        "englishTranslation":"",
+        "spanishTranslation":"comida china",
+        "example":""
+    },
+    {
+        "word":"西餐",
+        "pinyin":"xīcān",
+        "englishTranslation":"",
+        "spanishTranslation":"comida occidental",
+        "example":""
+    },
+    {
+        "word":"雪碧",
+        "pinyin":"xuěbì",
+        "englishTranslation":"",
+        "spanishTranslation":"Sprite",
+        "example":""
+    },
+    {
+        "word":"汉堡",
+        "pinyin":"hànbǎo",
+        "englishTranslation":"",
+        "spanishTranslation":"hamburguesa",
+        "example":""
+    },
+    {
+        "word":"热狗",
+        "pinyin":"règǒu",
+        "englishTranslation":"",
+        "spanishTranslation":"bocadillo",
+        "example":""
+    },
+    {
+        "word":"米饭",
+        "pinyin":"mǐfàn",
+        "englishTranslation":"",
+        "spanishTranslation":"arroz cocido",
+        "example":""
+    },
+    {
+        "word":"面",
+        "pinyin":"miàn",
+        "englishTranslation":"",
+        "spanishTranslation":"tallarines",
+        "example":"吃面"
+    },
+    {
+        "word":"寿面",
+        "pinyin":"shòumiàn",
+        "englishTranslation":"",
+        "spanishTranslation":"tallarines de la longevidad",
+        "example":"吃寿面"
+    },
+    {
+        "word":"鸭",
+        "pinyin":"yā",
+        "englishTranslation":"",
+        "spanishTranslation":"pato",
+        "example":""
+    },
+    {
+        "word":"烤鸭",
+        "pinyin":"kǎoyā",
+        "englishTranslation":"",
+        "spanishTranslation":"pato laqueado",
+        "example":"北京烤鸭，吃烤鸭"
+    },
+    {
+        "word":"漂亮",
+        "pinyin":"piàoliang",
+        "englishTranslation":"",
+        "spanishTranslation":"guapa, bonito",
+        "example":"漂亮的小姐，漂亮的照片"
+    },
+    {
+        "word":"北京",
+        "pinyin":"Běijīng",
+        "englishTranslation":"",
+        "spanishTranslation":"Pekín",
+        "example":""
+    },
+    {
+        "word":"葡萄",
+        "pinyin":"pútao",
+        "englishTranslation":"",
+        "spanishTranslation":"uva",
+        "example":"吃葡萄，买葡萄"
+    },
+    {
+        "word":"红葡萄酒",
+        "pinyin":"hóngpútaojiǔ",
+        "englishTranslation":"",
+        "spanishTranslation":"vino tinto",
+        "example":"一瓶红葡萄酒"
+    },
+    {
+        "word":"瓶",
+        "pinyin":"píng",
+        "englishTranslation":"",
+        "spanishTranslation":"botella",
+        "example":"一瓶水"
+    },
+    {
+        "word":"买",
+        "pinyin":"mǎi",
+        "englishTranslation":"",
+        "spanishTranslation":"comprar",
+        "example":"买蛋糕"
+    },
+    {
+        "word":"蛋",
+        "pinyin":"dàn",
+        "englishTranslation":"",
+        "spanishTranslation":"huevo",
+        "example":""
+    },
+    {
+        "word":"参加",
+        "pinyin":"cānjiā",
+        "englishTranslation":"",
+        "spanishTranslation":"participar, asistir",
+        "example":"参加聚会"
+    },
+    {
+        "word":"祝",
+        "pinyin":"zhù",
+        "englishTranslation":"",
+        "spanishTranslation":"desear, felicitar",
+        "example":""
+    },
+    {
+        "word":"祝贺",
+        "pinyin":"zhùhè",
+        "englishTranslation":"",
+        "spanishTranslation":"felicitar",
+        "example":"祝贺生日"
+    },
+    {
+        "word":"会",
+        "pinyin":"huì",
+        "englishTranslation":"",
+        "spanishTranslation":"reunión",
+        "example":""
+    },
+    {
+        "word":"聚会",
+        "pinyin":"jùhuì",
+        "englishTranslation":"",
+        "spanishTranslation":"fiesta",
+        "example":"生日聚会，有一个聚会"
+    },
+    {
+        "word":"属",
+        "pinyin":"shǔ",
+        "englishTranslation":"",
+        "spanishTranslation":"nacer el año de",
+        "example":"属狗，属马"
+    },
+    {
+        "word":"出",
+        "pinyin":"chū",
+        "englishTranslation":"",
+        "spanishTranslation":"salir",
+        "example":""
+    },
+    {
+        "word":"出生",
+        "pinyin":"chūshēng",
+        "englishTranslation":"",
+        "spanishTranslation":"nacer",
+        "example":"1982年出生"
+    },
+    {
+        "word":"大",
+        "pinyin":"dà",
+        "englishTranslation":"",
+        "spanishTranslation":"edad, viejo",
+        "example":""
+    },
+    {
+        "word":"多大",
+        "pinyin":"duō dà",
+        "englishTranslation":"",
+        "spanishTranslation":"¿cuántos años (edad)?",
+        "example":"今年多大"
+    },
+    {
+        "word":"下",
+        "pinyin":"xià",
+        "englishTranslation":"under",
+        "spanishTranslation":"debajo, próximo",
+        "example":"下星期，下星期三，下个月"
+    },
+    {
+        "word":"上",
+        "pinyin":"shàng",
+        "englishTranslation":"over",
+        "spanishTranslation":"encima, pasado",
+        "example":"上星期，上星期二，上个月"
+    },
+    {
+        "word":"上午",
+        "pinyin":"shàngwǔ",
+        "englishTranslation":"in the morning",
+        "spanishTranslation":"por la mañana",
+        "example":"明天上午，一个上午"
+    },
+    {
+        "word":"课",
+        "pinyin":"kè",
+        "englishTranslation":"",
+        "spanishTranslation":"clase, lección",
+        "example":"有课，汉语课，两课"
+    },
+    {
+        "word":"岁",
+        "pinyin":"suì",
+        "englishTranslation":"years old",
+        "spanishTranslation":"años (edad)",
+        "example":"五岁，十八岁，二十岁"
+    },
+    {
+        "word":"今年",
+        "pinyin":"jīnnián",
+        "englishTranslation":"this year",
+        "spanishTranslation":"este año",
+        "example":""
+    },
+    {
         "word":"单身",
         "pinyin":"dānshēn",
         "englishTranslation":"single",
@@ -213,7 +500,7 @@ const chineseVocabulary = [
         "word":"多",
         "pinyin":"duō",
         "englishTranslation":"a lot",
-        "spanishTranslation":"mucho",
+        "spanishTranslation":"mucho， ¿cómo?",
         "example":""
     },
     {
