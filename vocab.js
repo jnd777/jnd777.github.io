@@ -4,13 +4,14 @@ function buildVocabTable(data){
         var row = `<tr>
             <td>${data[i].word}</td>
             <td>${data[i].pinyin}</td>
+            <td>${data[i].englishTranslation}</td>
             <td>${data[i].spanishTranslation}</td>
             </tr>`
         table.innerHTML +=row;
     }
 }
 
-buildVocabTable(chineseVocabulary);
+buildVocabTable(chiVoc2);
 
-//<td>${data[i].englishTranslation}</td>
+//
 //<td>${data[i].example}</td>

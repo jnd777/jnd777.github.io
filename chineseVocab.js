@@ -1,4 +1,4 @@
-const chineseVocabulary = [
+const chiVoc2 = [
     {
         "word":"啊",
         "pinyin":"à",
@@ -4833,7 +4833,7 @@ const chineseVocabulary = [
         "word":"厅",
         "pinyin":"tīng",
         "pinyin2":"ting",
-        "englishTranslation":hall,
+        "englishTranslation":"hall",
         "spanishTranslation":"sala, salón",
         "example":"咖啡厅",
         "lesson":15,
