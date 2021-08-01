@@ -1,4 +1,4 @@
-//"use strict";
+"use strict";
 
 function escaped(entry) {
     return entry
@@ -54,7 +54,7 @@ function printTest(data){
                 let answer1 = data[i].pinyin;
                 let answer2 = data[i].pinyin2;
                 let userEntry = window.prompt(`Please enter the pinyin for "${data[i].spanishTranslation}"`);
-                let userAttempt = this.escaped(userEntry);
+                let userAttempt = escaped(userEntry);
                 if(userAttempt == answer1){
                     correctAnswers++;
                     window.alert(`"${answer1}" is correct`);
@@ -81,7 +81,7 @@ function printTest(data){
             if(data[i].lesson<=testVocab){
                 let answer1 = data[i].pinyin;
                 let userEntry = window.prompt(`Please enter the pinyin for "${data[i].spanishTranslation}"`);
-                let userAttempt = this.escaped(userEntry);
+                let userAttempt = escaped(userEntry);
                 if(userAttempt == answer1){
                     correctAnswers++;
                     window.alert(`"${answer1}" was correct`);
@@ -104,7 +104,7 @@ function printTest(data){
             if(data[i].lesson<=testVocab){
                 let answer1 = data[i].word;
                 let userEntry = window.prompt(`Please enter the character for "${data[i].spanishTranslation}"`);
-                let userAttempt = this.escaped(userEntry);
+                let userAttempt = escaped(userEntry);
                 if(userAttempt == answer1){
                     correctAnswers++;
                     window.alert(`"${answer1}" was correct`);
@@ -128,7 +128,7 @@ function printTest(data){
                 let answer1 = data[i].pinyin;
                 let answer2 = data[i].pinyin2;
                 let userEntry = window.prompt(`Please enter the pinyin for "${data[i].word}"`);
-                let userAttempt = this.escaped(userEntry);
+                let userAttempt = escaped(userEntry);
                 if(userAttempt == answer1){
                     correctAnswers++;
                     window.alert(`"${answer1}" is correct`);
