@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vocabulary</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="chineseVocab.js" defer></script>
+    <script src="practiceTest.js" defer></script>
+
+    
+    
+</head>
+<body>
+    <div class="grid">
+    <nav class="topnav">
+        <ul>
+            <li><a href="index.html">Lessons</a></li>
+            <li><a href="characters.html">Characters</a></li>
+            <li><a href="vocabulary.html">Vocabulary</a></li>
+            <li><a class="active" href="practice.html">Practice</a></li>
+        </ul>
+    </nav>
+    <header>   
+    <h1>Practice</h1>
+    </header>  
+    
+    
+        <section class="lessonScroll">
+            <label for="difficulty">Choose difficulty level:</label>
+            <select name="difficulty" id="difficulty">
+                <option value="1">Level 1: Pinyin w/o tones</option>
+                <option value="2">Level 2: Pinyin w/ tones</option>
+                <option value="3">Level 3: Characters</option>
+                <option value="4">Level 4: Pinyin for characters</option>
+            </select>
+            <br>
+            <label for="lessonsTested">Include vocab up to chapter:</label>
+            <select name="lessonsTested" id="lessonsTested">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+                <option value="11">11</option>
+                <option value="12">12</option>
+                <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+            </select>
+            <br>
+            <button type="button" class="goButton" onclick="practiceTest('difficulty','lessonsTested')">Begin</button>
+        </section>
+
+    <main>
+        
+        <p id="result"></p>
+    
+    <a href="#">Go back to top</a>
+</main>
+</div>
+    </body>
+
+</html>
