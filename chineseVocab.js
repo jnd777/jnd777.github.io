@@ -744,7 +744,7 @@ const chiVoc2 = [
         "pinyin":"fēn(qián)",
         "pinyin2":"fen(qian)",
         "englishTranslation":"cent",
-        "spanishTranslation":"",
+        "spanishTranslation":"centavo",
         "example":"",
         "lesson":10,
         "level":1

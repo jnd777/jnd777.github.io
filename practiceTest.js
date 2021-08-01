@@ -1,5 +1,7 @@
-function escaped(unsafe) {
-    return unsafe
+//"use strict";
+
+function escaped(entry) {
+    return entry
          .replace(/&/g, "&amp;")
          .replace(/</g, "&lt;")
          .replace(/>/g, "&gt;")
@@ -28,8 +30,7 @@ function escaped(unsafe) {
          .replace(/v1/g, "ǖ")
          .replace(/v2/g, "ǘ")
          .replace(/v3/g, "ǚ")
-         .replace(/v4/g, "ǜ")
-         ;
+         .replace(/v4/g, "ǜ");
  }
 
 function practiceTest(difficulty,lessonsTested){
@@ -57,18 +58,18 @@ function printTest(data){
                 if(userAttempt == answer1){
                     correctAnswers++;
                     window.alert(`"${answer1}" is correct`);
-                    rightEntries.push(answer1);
+                    rightEntries.push(` ${answer1}`);
                 } else if(userAttempt == answer2){
                     correctAnswers++;
                     window.alert(`"${answer2}" is correct`);
-                    rightEntries.push(answer2);
+                    rightEntries.push(` ${answer2}`);
                 } else if(userAttempt == ""){
                     break;
                 } else {
                     incorrectAnswers++;
                     window.alert(`Your answer is incorrect. The correct answer is "${answer2}".`);
-                    wrongEntries.push(answer2);
-                    review.push(`\n* ${data[i].spanishTranslation}:${answer2}`);
+                    wrongEntries.push(` ${answer2}`);
+                    review.push(`\n* ${data[i].spanishTranslation}: ${answer2}`);
                 }
             } else {
                 continue;
@@ -84,14 +85,14 @@ function printTest(data){
                 if(userAttempt == answer1){
                     correctAnswers++;
                     window.alert(`"${answer1}" was correct`);
-                    rightEntries.push(answer1);
+                    rightEntries.push(` ${answer1}`);
                 } else if(userAttempt == ""){
                     break;
                 } else {
                     incorrectAnswers++;
                     window.alert(`Your answer is incorrect. The correct answer is "${answer1}."`);
-                    wrongEntries.push(answer1);
-                    review.push(`\n* ${data[i].spanishTranslation}:${answer1}`);
+                    wrongEntries.push(` ${answer1}`);
+                    review.push(`\n* ${data[i].spanishTranslation}: ${answer1}`);
                 }
             } else {
                 continue;
@@ -107,14 +108,14 @@ function printTest(data){
                 if(userAttempt == answer1){
                     correctAnswers++;
                     window.alert(`"${answer1}" was correct`);
-                    rightEntries.push(answer1);
+                    rightEntries.push(` ${answer1}`);
                 } else if(userAttempt == ""){
                     break;
                 } else {
                     incorrectAnswers++;
                     window.alert(`Your answer is incorrect. The correct answer is "${answer1}".`);
-                    wrongEntries.push(answer1);
-                    review.push(`\n* ${data[i].spanishTranslation}:${answer1}`);
+                    wrongEntries.push(` ${answer1}`);
+                    review.push(`\n* ${data[i].spanishTranslation}: ${answer1}`);
                 }
             } else {
                 continue;
@@ -131,18 +132,18 @@ function printTest(data){
                 if(userAttempt == answer1){
                     correctAnswers++;
                     window.alert(`"${answer1}" is correct`);
-                    rightEntries.push(answer1);
+                    rightEntries.push(` ${answer1}`);
                 } else if(userAttempt == answer2){
                     correctAnswers++;
                     window.alert(`"${answer2}" is correct`);
-                    rightEntries.push(answer2);
+                    rightEntries.push(` ${answer2}`);
                 } else if(userAttempt == ""){
                     break;
                 } else {
                     incorrectAnswers++;
                     window.alert(`Your answer is incorrect. The correct answer is "${answer2}".`);
-                    wrongEntries.push(answer2);
-                    review.push(`\n* ${data[i].word}:${answer2}`);
+                    wrongEntries.push(` ${answer2}`);
+                    review.push(`\n* ${data[i].word}: ${answer2}`);
                 }
             } else {
                 continue;
