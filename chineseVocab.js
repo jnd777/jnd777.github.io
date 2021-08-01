@@ -2684,7 +2684,7 @@ const chiVoc2 = [
         "pinyin":"sì",
         "pinyin2":"si",
         "englishTranslation":"four",
-        "spanishTranslation":"",
+        "spanishTranslation":"cuatro",
         "example":"",
         "lesson":5,
         "level":1
@@ -2694,7 +2694,7 @@ const chiVoc2 = [
         "pinyin":"sòng",
         "pinyin2":"song",
         "englishTranslation":"to give (as a present)",
-        "spanishTranslation":"cuatro",
+        "spanishTranslation":"dar (un regalo)",
         "example":"",
         "lesson":10,
         "level":1
