@@ -15,10 +15,153 @@
     <title>Vocabulary</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
     <script src="chineseVocab.js" defer></script>
-    <script src="practiceTest.js" defer></script>
+    <script src="practiceTest_es.js" defer></script>
+<style>
+main {
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto 40px 1fr;
+    grid-template-areas: 
+    "testSetup"
+    "testSetup"
+    "testArea"
+    "progress"
+    "review";
+}
 
-    
-    
+.testSetup {
+    background-color: #950952;
+    justify-content: center;
+    align-items: center;
+    color: #f2f2f2;
+    grid-area: testSetup;
+    text-align: center;
+    text-transform: uppercase;
+    gap: 10px;
+    vertical-align: middle;
+    padding: 15px;
+}
+
+#difficulty {
+    color:#950952;
+    border-color: #950952;
+    align-items: center;
+    font-size: 16px;
+    vertical-align: middle;
+
+}
+
+.difficulty {
+    align-items: center;
+    font-size: 20px;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+
+#lessonsTested {
+    color:#950952;
+    border-color: #950952;
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+.lessonsTested{
+    font-size: 20px;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+.startButton {
+    background-color: #98ce00;
+    border-color: #950952;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+    margin-top: 15px;
+}
+.testArea {
+    grid-area: testArea;
+    background-color: white;
+    text-align: center;
+}
+.problem {
+    color:#950952;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 20px;
+}
+.enterAnswer {
+    border: 1px solid #950952;
+    color: #950952;
+    font: 2em;
+    visibility:hidden;
+}
+.answerButton {
+    border: 1px solid #950952;
+    background-color: white;
+    color: #950952;
+    visibility:hidden;
+}
+.total {
+    visibility: hidden;
+}
+.boxes {
+    display: flex;
+    width: 100%;
+
+}
+.progress {
+    border: 1px solid #98ce00;
+    border-right: none;
+    position: relative;
+    grid-area: progress;    
+    visibility: hidden;
+}
+
+.progressInner {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #98ce00;
+    opacity: .57;
+    transform: scaleX(0);
+    transform-origin: center left;
+    transition: transform .4s ease-out;
+
+}
+
+.box{
+    height: 40px;
+    border-right: 1px solid #98ce00;
+    flex: 1;
+}
+
+.review {
+    grid-area: review;
+    background-color: white;
+}
+@media screen and (min-width: 600px){
+    .main{
+        display:grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-template-rows: auto auto auto 40px 1fr;
+        grid-template-areas: 
+        "testSetup"
+        "testSetup"
+        "testArea"
+        "progress"
+        "review";
+    }
+    .progress {
+        grid-column: 2/4;
+    }
+    .review{
+        grid-column: 2/4;
+    }
+}
+
+</style>
 </head>
 <body>
     <div class="grid">
@@ -33,18 +176,18 @@
     <header>   
     <h1>Practice</h1>
     </header>  
-    
-    
-        <section class="lessonScroll">
-            <label for="difficulty">Choose difficulty level:</label>
+    <main>
+        
+        <section class="testSetup">
+            <label for="difficulty" class="difficulty">Practice:</label>
             <select name="difficulty" id="difficulty">
-                <option value="1">Level 1: Pinyin w/o tones</option>
-                <option value="2">Level 2: Pinyin w/ tones</option>
-                <option value="3">Level 3: Characters</option>
-                <option value="4">Level 4: Pinyin for characters</option>
+                <option value="1">Pinyin</option>
+                <option value="2">Tones</option>
+                <option value="3">Characters</option>
+                <option value="4">All</option>
             </select>
             <br>
-            <label for="lessonsTested">Include vocab up to chapter:</label>
+            <label for="lessonsTested" class="lessonsTested">Chapter:</label>
             <select name="lessonsTested" id="lessonsTested">
                 <option value="1">1</option>
                 <option value="2">2</option>
@@ -63,16 +206,28 @@
                 <option value="15">15</option>
             </select>
             <br>
-            <button type="button" class="goButton" onclick="practiceTest('difficulty','lessonsTested')">Begin</button>
+            <button class="startButton" onclick="createTest()">START</button>
         </section>
 
-    <main>
-        
-        <p id="result"></p>
-    
-    <a href="#">Go back to top</a>
-</main>
-</div>
-    </body>
+       <section class="testArea">
+           <p class="problem"></p>
+           <form action="" class="testForm">
+                <input type="text" class="enterAnswer" autocomplete="off">
+                <button class="answerButton">Submit</button>
+            </form>
+            <p class="total">You got <span class="correct">0</span> correct and <span class="incorrect">0</span> incorrect.</p>
+       </section> 
 
+       <section class="progress">
+           <div class="boxes">
+               <div class="box"></div>
+           </div>
+           <div class="progressInner"></div>
+       </section>
+
+       <p class="review"></p>
+                
+    </main>
+    </div>
+</body>
 </html>
