@@ -1773,8 +1773,8 @@ const chiVoc2 = [
         "word":"吗",
         "pinyin":"ma",
         "pinyin2":"ma",
-        "englishTranslation":"interrogative particle for question expecting yes-no answer",
-        "spanishTranslation":"partícula interrogativa para preguntas que esperan la respuesta sí/no",
+        "englishTranslation":"interrogative particle for questions",
+        "spanishTranslation":"partícula interrogativa para preguntas",
         "example":"",
         "lesson":1,
         "level":1
