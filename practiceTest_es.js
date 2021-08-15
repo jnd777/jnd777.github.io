@@ -60,7 +60,8 @@ function escaped(entry) {
          .replace(/v2/g, "ǘ")
          .replace(/v3/g, "ǚ")
          .replace(/v4/g, "ǜ")
-         .replace(/nv/g, "nü");
+         .replace(/nv/g, "nü")
+         .replace(/lv/g, "lü");
  }
 
 function updateTest(){
@@ -169,7 +170,8 @@ ourTestForm.addEventListener("submit",checkAnswer);
 function checkAnswer(e){
     e.preventDefault();
     let correctAnswer = test.answer[currentQuestion];
-    let userEntry = escaped(ourAnswer.value);
+    let casing = ourAnswer.value.toLowerCase();
+    let userEntry = escaped(casing);
     if(userEntry == correctAnswer) {
         state.rightAnswers++;
         currentQuestion++;
