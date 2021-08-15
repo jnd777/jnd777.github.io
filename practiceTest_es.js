@@ -59,7 +59,8 @@ function escaped(entry) {
          .replace(/v1/g, "ǖ")
          .replace(/v2/g, "ǘ")
          .replace(/v3/g, "ǚ")
-         .replace(/v4/g, "ǜ");
+         .replace(/v4/g, "ǜ")
+         .replace(/nv/g, "nü");
  }
 
 function updateTest(){
@@ -179,5 +180,13 @@ function checkAnswer(e){
         state.review.push(`\n* ${test.question[currentQuestion]} : ${test.answer[currentQuestion]}`);
         currentQuestion++;
         updateTest();
+    }
+}
+
+ourAnswer.addEventListener("keydown",blockspace);
+
+function blockspace(evt){
+    if (evt.key == " ") {
+        evt.preventDefault();
     }
 }

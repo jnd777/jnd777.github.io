@@ -25,16 +25,16 @@ main {
     "testSetup"
     "testSetup"
     "testArea"
-    "progress"
+    "progressArea"
     "review";
 }
 
 .testSetup {
+    grid-area: testSetup;
     background-color: #950952;
     justify-content: center;
     align-items: center;
     color: #f2f2f2;
-    grid-area: testSetup;
     text-align: center;
     text-transform: uppercase;
     gap: 10px;
@@ -111,10 +111,10 @@ main {
 
 }
 .progress {
+    grid-area: progressArea; 
     border: 1px solid #98ce00;
     border-right: none;
     position: relative;
-    grid-area: progress;    
     visibility: hidden;
 }
 
@@ -146,18 +146,22 @@ main {
         display:grid;
         grid-template-columns: repeat(4,1fr);
         grid-template-rows: auto auto auto 40px 1fr;
-        grid-template-areas: 
-        "testSetup"
-        "testSetup"
-        "testArea"
-        "progress"
-        "review";
+    }
+    .testSetup {
+         grid-column: 1/5;
+    }
+    .testArea {
+        grid-column: 1/5;
+    }
+    .total {
+        grid-column: 1/5;
     }
     .progress {
-        grid-column: 2/4;
+        grid-column: 1/5;
     }
     .review{
-        grid-column: 2/4;
+        grid-column: 1/5;
+        font-size: 1em;
     }
 }
 
