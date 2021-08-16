@@ -59,7 +59,9 @@ function escaped(entry) {
          .replace(/v1/g, "ǖ")
          .replace(/v2/g, "ǘ")
          .replace(/v3/g, "ǚ")
-         .replace(/v4/g, "ǜ");
+         .replace(/v4/g, "ǜ")
+         .replace(/nv/g, "nü")
+         .replace(/lv/g, "lü");
  }
 
 function updateTest(){
@@ -168,7 +170,8 @@ ourTestForm.addEventListener("submit",checkAnswer);
 function checkAnswer(e){
     e.preventDefault();
     let correctAnswer = test.answer[currentQuestion];
-    let userEntry = escaped(ourAnswer.value);
+    let casing = ourAnswer.value.toLowerCase();
+    let userEntry = escaped(casing);
     if(userEntry == correctAnswer) {
         state.rightAnswers++;
         currentQuestion++;
@@ -179,5 +182,13 @@ function checkAnswer(e){
         state.review.push(`\n* ${test.question[currentQuestion]} : ${test.answer[currentQuestion]}`);
         currentQuestion++;
         updateTest();
+    }
+}
+
+ourAnswer.addEventListener("keydown",blockspace);
+
+function blockspace(evt){
+    if (evt.key == " ") {
+        evt.preventDefault();
     }
 }

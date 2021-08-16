@@ -3,10 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Practice</title>
+    <title>Practica</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
     <script src="chineseVocab.js" defer></script>
-    <script src="practiceTest_en.js" defer></script>
+    <script src="practiceTest_es.js" defer></script>
 <style>
 main {
     display:grid;
@@ -162,27 +162,27 @@ main {
     <div class="grid">
     <nav class="topnav">
         <ul>
-            <li><a href="index.html">Lessons</a></li>
-            <li><a href="characters.html">Characters</a></li>
-            <li><a href="vocabulary.html">Vocabulary</a></li>
-            <li><a class="active" href="practice.html">Practice</a></li>
+            <li><a href="index_ES.html">Lecciones</a></li>
+            <li><a href="characters_ES.html">Caracteres</a></li>
+            <li><a href="vocabulary_ES.html">Vocabulario</a></li>
+            <li><a class="active" href="practice_ES.html">Practica</a></li>
         </ul>
     </nav>
     <header>   
-    <h1>Practice</h1>
+    <h1>Practica</h1>
     </header>  
     <main>
         
         <section class="testSetup">
-            <label for="difficulty" class="difficulty">Practice:</label>
+            <label for="difficulty" class="difficulty">Practica:</label>
             <select name="difficulty" id="difficulty">
                 <option value="1">Pinyin</option>
-                <option value="2">Tones</option>
-                <option value="3">Characters</option>
-                <option value="4">All</option>
+                <option value="2">Tonos</option>
+                <option value="3">Caracteres</option>
+                <option value="4">Todo</option>
             </select>
             <br>
-            <label for="lessonsTested" class="lessonsTested">Chapter:</label>
+            <label for="lessonsTested" class="lessonsTested">Capítulo:</label>
             <select name="lessonsTested" id="lessonsTested">
                 <option value="1">1</option>
                 <option value="2">2</option>
@@ -201,16 +201,16 @@ main {
                 <option value="15">15</option>
             </select>
             <br>
-            <button class="startButton" onclick="createTest()">START</button>
+            <button class="startButton" onclick="createTest()">INICIAR</button>
         </section>
 
        <section class="testArea">
            <p class="problem"></p>
            <form action="" class="testForm">
                 <input type="text" class="enterAnswer" autocomplete="off" size="10" maxlength="18" pattern="[a-zA-z0-9\u3000-\u303F\u3400-\u4DBF\u4E00-\u9FFFüāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+">
-                <button class="answerButton">Submit</button>
+                <button class="answerButton">Revisar</button>
             </form>
-            <p class="total">You got <span class="correct">0</span> correct and <span class="incorrect">0</span> incorrect.</p>
+            <p class="total">Correcto(s): <span class="correct">0</span> | Incorrecto(s): <span class="incorrect">0</span></p>
        </section> 
 
        <section class="progress">

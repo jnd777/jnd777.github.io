@@ -79,11 +79,11 @@ function updateTest(){
         incorrect.textContent = state.wrongAnswers;
         ourAnswer.value = "";
         if(state.wrongAnswers == 0){
-            problemElement.innerHTML = `Great job!`;
+            problemElement.innerHTML = `Excelente trabajo!`;
         }
         if(state.wrongAnswers >=1){
-            problemElement.innerHTML = `Good job!`;
-            reviewAfter.innerText = `Please review the following: ${state.review}`;
+            problemElement.innerHTML = `Muy bien!`;
+            reviewAfter.innerText = `Para repasar: ${state.review}`;
         }
     }
 }
