@@ -70,9 +70,9 @@ const chiVoc2 = [
         "level":1
     },
     {
-        "word":"报",
-        "pinyin":"bào",
-        "pinyin2":"bao",
+        "word":"报纸",
+        "pinyin":"bàozhǐ",
+        "pinyin2":"baozhi",
         "englishTranslation":"newspaper",
         "spanishTranslation":"periódico",
         "example":"",
@@ -124,7 +124,7 @@ const chiVoc2 = [
         "pinyin":"bēi",
         "pinyin2":"bei",
         "englishTranslation":"cup of",
-        "spanishTranslation":"taza",
+        "spanishTranslation":"clasificador de taza",
         "example":"",
         "lesson":10,
         "level":1
@@ -277,16 +277,6 @@ const chiVoc2 = [
         "spanishTranslation":"estar corte de, carecer de",
         "example":"",
         "lesson":11,
-        "level":1
-    },
-    {
-        "word":"常",
-        "pinyin":"cháng",
-        "pinyin2":"chang",
-        "englishTranslation":"often",
-        "spanishTranslation":"a menudo",
-        "example":"",
-        "lesson":10,
         "level":1
     },
     {
@@ -740,9 +730,9 @@ const chiVoc2 = [
         "level":1
     },
     {
-        "word":"分(钱)",
-        "pinyin":"fēn(qián)",
-        "pinyin2":"fen(qian)",
+        "word":"分",
+        "pinyin":"fēn",
+        "pinyin2":"fen",
         "englishTranslation":"cent",
         "spanishTranslation":"centavo",
         "example":"",
@@ -754,7 +744,7 @@ const chiVoc2 = [
         "pinyin":"fèn",
         "pinyin2":"fen",
         "englishTranslation":"measure word for publications such as newspapers",
-        "spanishTranslation":"clasificador para periódicos",
+        "spanishTranslation":"clasificador para publicaciones como periódicos/revistas",
         "example":"",
         "lesson":10,
         "level":1
@@ -1600,9 +1590,9 @@ const chiVoc2 = [
         "level":1
     },
     {
-        "word":"块（钱）",
-        "pinyin":"kuài(qián)",
-        "pinyin2":"kuai(qian)",
+        "word":"块",
+        "pinyin":"kuài",
+        "pinyin2":"kuai",
         "englishTranslation":"measure word of basic Chinese monetary unit, dollar",
         "spanishTranslation":"clasificador para unidades básicas de moneda china",
         "example":"",
@@ -1810,9 +1800,9 @@ const chiVoc2 = [
         "level":1
     },
     {
-        "word":"毛（钱）",
-        "pinyin":"mao(qian)",
-        "pinyin2":"mao(qian)",
+        "word":"毛",
+        "pinyin":"mao",
+        "pinyin2":"mao",
         "englishTranslation":"dime",
         "spanishTranslation":"clasificador de unidades de moneda china, un décimo",
         "example":"",
@@ -3410,9 +3400,9 @@ const chiVoc2 = [
         "level":1
     },
     {
-        "word":"（一）点儿",
-        "pinyin":"(yì)diǎnr",
-        "pinyin2":"(yi)dianr",
+        "word":"一点儿",
+        "pinyin":"yìdiǎnr",
+        "pinyin2":"yidianr",
         "englishTranslation":"a little bit",
         "spanishTranslation":"un poco",
         "example":"",
@@ -3720,9 +3710,9 @@ const chiVoc2 = [
         "level":1
     },
     {
-        "word":"找（钱）",
-        "pinyin":"zhǎo(qián)",
-        "pinyin2":"zhao(qian)",
+        "word":"找",
+        "pinyin":"zhǎo",
+        "pinyin2":"zhao",
         "englishTranslation":"to give change",
         "spanishTranslation":"dar cambio",
         "example":"",
